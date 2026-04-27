@@ -1,0 +1,364 @@
+{
+    "questoes_ingles": [
+        {
+            "id": 1,
+            "nivel": "Fácil",
+            "pergunta": "Choose the correct option: '___ you like pizza?'",
+            "opcoes": {
+                "a": "Does",
+                "b": "Are",
+                "c": "Do",
+                "d": "Is"
+            },
+            "resposta": "c"
+        },
+        {
+            "id": 2,
+            "nivel": "Fácil",
+            "pergunta": "She ___ a doctor.",
+            "opcoes": {
+                "a": "am",
+                "b": "is",
+                "c": "are",
+                "d": "be"
+            },
+            "resposta": "b"
+        },
+        {
+            "id": 3,
+            "nivel": "Fácil",
+            "pergunta": "I ___ to the park every weekend.",
+            "opcoes": {
+                "a": "go",
+                "b": "goes",
+                "c": "going",
+                "d": "gone"
+            },
+            "resposta": "a"
+        },
+        {
+            "id": 4,
+            "nivel": "Fácil",
+            "pergunta": "___ is your name?",
+            "opcoes": {
+                "a": "Who",
+                "b": "When",
+                "c": "Where",
+                "d": "What"
+            },
+            "resposta": "d"
+        },
+        {
+            "id": 5,
+            "nivel": "Fácil",
+            "pergunta": "They ___ playing football now.",
+            "opcoes": {
+                "a": "is",
+                "b": "am",
+                "c": "are",
+                "d": "do"
+            },
+            "resposta": "c"
+        },
+        {
+            "id": 6,
+            "nivel": "Fácil",
+            "pergunta": "I have a brother. ___ name is Tom.",
+            "opcoes": {
+                "a": "Her",
+                "b": "His",
+                "c": "He",
+                "d": "Him"
+            },
+            "resposta": "b"
+        },
+        {
+            "id": 7,
+            "nivel": "Fácil",
+            "pergunta": "We don't have ___ milk left.",
+            "opcoes": {
+                "a": "any",
+                "b": "some",
+                "c": "a",
+                "d": "an"
+            },
+            "resposta": "a"
+        },
+        {
+            "id": 8,
+            "nivel": "Fácil",
+            "pergunta": "Look at ___ dog! It's so cute.",
+            "opcoes": {
+                "a": "these",
+                "b": "those",
+                "c": "then",
+                "d": "that"
+            },
+            "resposta": "d"
+        },
+        {
+            "id": 9,
+            "nivel": "Fácil",
+            "pergunta": "He ___ like apples.",
+            "opcoes": {
+                "a": "doesn't",
+                "b": "don't",
+                "c": "isn't",
+                "d": "aren't"
+            },
+            "resposta": "a"
+        },
+        {
+            "id": 10,
+            "nivel": "Fácil",
+            "pergunta": "Can you help ___?",
+            "opcoes": {
+                "a": "I",
+                "b": "my",
+                "c": "me",
+                "d": "mine"
+            },
+            "resposta": "c"
+        },
+        {
+            "id": 11,
+            "nivel": "Médio",
+            "pergunta": "I ___ to London last year.",
+            "opcoes": {
+                "a": "go",
+                "b": "gone",
+                "c": "went",
+                "d": "going"
+            },
+            "resposta": "c"
+        },
+        {
+            "id": 12,
+            "nivel": "Médio",
+            "pergunta": "She has ___ lived here for five years.",
+            "opcoes": {
+                "a": "yet",
+                "b": "already",
+                "c": "since",
+                "d": "ever"
+            },
+            "resposta": "b"
+        },
+        {
+            "id": 13,
+            "nivel": "Médio",
+            "pergunta": "This book is ___ than the other one.",
+            "opcoes": {
+                "a": "gooder",
+                "b": "more good",
+                "c": "better",
+                "d": "best"
+            },
+            "resposta": "c"
+        },
+        {
+            "id": 14,
+            "nivel": "Médio",
+            "pergunta": "If it rains, we ___ at home.",
+            "opcoes": {
+                "a": "will stay",
+                "b": "stay",
+                "c": "would stay",
+                "d": "stayed"
+            },
+            "resposta": "a"
+        },
+        {
+            "id": 15,
+            "nivel": "Médio",
+            "pergunta": "I'm looking forward ___ you.",
+            "opcoes": {
+                "a": "to see",
+                "b": "seeing",
+                "c": "see",
+                "d": "to seeing"
+            },
+            "resposta": "d"
+        },
+        {
+            "id": 16,
+            "nivel": "Médio",
+            "pergunta": "He is used ___ up early.",
+            "opcoes": {
+                "a": "wake",
+                "b": "to waking",
+                "c": "to wake",
+                "d": "waking"
+            },
+            "resposta": "b"
+        },
+        {
+            "id": 17,
+            "nivel": "Médio",
+            "pergunta": "The car, ___ was blue, drove past.",
+            "opcoes": {
+                "a": "which",
+                "b": "who",
+                "c": "whose",
+                "d": "whom"
+            },
+            "resposta": "a"
+        },
+        {
+            "id": 18,
+            "nivel": "Médio",
+            "pergunta": "They have been working here ___ 2015.",
+            "opcoes": {
+                "a": "for",
+                "b": "in",
+                "c": "since",
+                "d": "at"
+            },
+            "resposta": "c"
+        },
+        {
+            "id": 19,
+            "nivel": "Médio",
+            "pergunta": "You ___ smoke in the hospital.",
+            "opcoes": {
+                "a": "don't have to",
+                "b": "wouldn't",
+                "c": "couldn't",
+                "d": "mustn't"
+            },
+            "resposta": "d"
+        },
+        {
+            "id": 20,
+            "nivel": "Médio",
+            "pergunta": "I was watching TV when the phone ___.",
+            "opcoes": {
+                "a": "rings",
+                "b": "rang",
+                "c": "has rung",
+                "d": "was ringing"
+            },
+            "resposta": "b"
+        },
+        {
+            "id": 21,
+            "nivel": "Difícil",
+            "pergunta": "If I had known you were coming, I ___ a cake.",
+            "opcoes": {
+                "a": "would bake",
+                "b": "will bake",
+                "c": "would have baked",
+                "d": "baked"
+            },
+            "resposta": "c"
+        },
+        {
+            "id": 22,
+            "nivel": "Difícil",
+            "pergunta": "Scarcely ___ the house when it started to pour.",
+            "opcoes": {
+                "a": "had he left",
+                "b": "he had left",
+                "c": "did he leave",
+                "d": "has he left"
+            },
+            "resposta": "a"
+        },
+        {
+            "id": 23,
+            "nivel": "Difícil",
+            "pergunta": "The project is expected ___ by the end of the month.",
+            "opcoes": {
+                "a": "to finish",
+                "b": "to be finished",
+                "c": "finishing",
+                "d": "being finished"
+            },
+            "resposta": "b"
+        },
+        {
+            "id": 24,
+            "nivel": "Difícil",
+            "pergunta": "Not only ___ late, but he also forgot his notes.",
+            "opcoes": {
+                "a": "he was",
+                "b": "he did be",
+                "c": "was he",
+                "d": "did he"
+            },
+            "resposta": "c"
+        },
+        {
+            "id": 25,
+            "nivel": "Difícil",
+            "pergunta": "She was completely taken ___ by his story.",
+            "opcoes": {
+                "a": "out",
+                "b": "over",
+                "c": "aback",
+                "d": "in"
+            },
+            "resposta": "d"
+        },
+        {
+            "id": 26,
+            "nivel": "Difícil",
+            "pergunta": "By this time next year, I ___ my degree.",
+            "opcoes": {
+                "a": "will have finished",
+                "b": "will finish",
+                "c": "would finish",
+                "d": "finish"
+            },
+            "resposta": "a"
+        },
+        {
+            "id": 27,
+            "nivel": "Difícil",
+            "pergunta": "The manager insisted that the employee ___ immediately.",
+            "opcoes": {
+                "a": "resigns",
+                "b": "resign",
+                "c": "resigned",
+                "d": "resigning"
+            },
+            "resposta": "b"
+        },
+        {
+            "id": 28,
+            "nivel": "Difícil",
+            "pergunta": "Despite ___ tired, she kept working.",
+            "opcoes": {
+                "a": "to be",
+                "b": "she was",
+                "c": "being",
+                "d": "of being"
+            },
+            "resposta": "c"
+        },
+        {
+            "id": 29,
+            "nivel": "Difícil",
+            "pergunta": "He would rather you ___ him the truth.",
+            "opcoes": {
+                "a": "tell",
+                "b": "told",
+                "c": "have told",
+                "d": "telling"
+            },
+            "resposta": "b"
+        },
+        {
+            "id": 30,
+            "nivel": "Difícil",
+            "pergunta": "It's high time you ___ a job.",
+            "opcoes": {
+                "a": "found",
+                "b": "find",
+                "c": "finding",
+                "d": "will find"
+            },
+            "resposta": "a"
+        }
+    ]
+}
