@@ -10,7 +10,8 @@
                 "c": "Do",
                 "d": "Is"
             },
-            "resposta": "c"
+            "resposta": "c",
+            "imagem": null
         },
         {
             "id": 2,
@@ -22,7 +23,8 @@
                 "c": "are",
                 "d": "be"
             },
-            "resposta": "b"
+            "resposta": "b",
+            "imagem": null
         },
         {
             "id": 3,
@@ -34,7 +36,8 @@
                 "c": "going",
                 "d": "gone"
             },
-            "resposta": "a"
+            "resposta": "a",
+            "imagem": null
         },
         {
             "id": 4,
@@ -46,7 +49,8 @@
                 "c": "Where",
                 "d": "What"
             },
-            "resposta": "d"
+            "resposta": "d",
+            "imagem": null
         },
         {
             "id": 5,
@@ -58,7 +62,8 @@
                 "c": "are",
                 "d": "do"
             },
-            "resposta": "c"
+            "resposta": "c",
+            "imagem": null
         },
         {
             "id": 6,
@@ -70,7 +75,8 @@
                 "c": "He",
                 "d": "Him"
             },
-            "resposta": "b"
+            "resposta": "b",
+            "imagem": null
         },
         {
             "id": 7,
@@ -82,7 +88,8 @@
                 "c": "a",
                 "d": "an"
             },
-            "resposta": "a"
+            "resposta": "a",
+            "imagem": null
         },
         {
             "id": 8,
@@ -94,7 +101,8 @@
                 "c": "then",
                 "d": "that"
             },
-            "resposta": "d"
+            "resposta": "d",
+            "imagem": null
         },
         {
             "id": 9,
@@ -106,7 +114,8 @@
                 "c": "isn't",
                 "d": "aren't"
             },
-            "resposta": "a"
+            "resposta": "a",
+            "imagem": null
         },
         {
             "id": 10,
@@ -118,7 +127,8 @@
                 "c": "me",
                 "d": "mine"
             },
-            "resposta": "c"
+            "resposta": "c",
+            "imagem": null
         },
         {
             "id": 11,
@@ -130,7 +140,8 @@
                 "c": "went",
                 "d": "going"
             },
-            "resposta": "c"
+            "resposta": "c",
+            "imagem": null
         },
         {
             "id": 12,
@@ -142,7 +153,8 @@
                 "c": "since",
                 "d": "ever"
             },
-            "resposta": "b"
+            "resposta": "b",
+            "imagem": null
         },
         {
             "id": 13,
@@ -154,7 +166,8 @@
                 "c": "better",
                 "d": "best"
             },
-            "resposta": "c"
+            "resposta": "c",
+            "imagem": null
         },
         {
             "id": 14,
@@ -166,7 +179,8 @@
                 "c": "would stay",
                 "d": "stayed"
             },
-            "resposta": "a"
+            "resposta": "a",
+            "imagem": null
         },
         {
             "id": 15,
@@ -178,7 +192,8 @@
                 "c": "see",
                 "d": "to seeing"
             },
-            "resposta": "d"
+            "resposta": "d",
+            "imagem": null
         },
         {
             "id": 16,
@@ -190,7 +205,8 @@
                 "c": "to wake",
                 "d": "waking"
             },
-            "resposta": "b"
+            "resposta": "b",
+            "imagem": null
         },
         {
             "id": 17,
@@ -202,7 +218,8 @@
                 "c": "whose",
                 "d": "whom"
             },
-            "resposta": "a"
+            "resposta": "a",
+            "imagem": null
         },
         {
             "id": 18,
@@ -214,7 +231,8 @@
                 "c": "since",
                 "d": "at"
             },
-            "resposta": "c"
+            "resposta": "c",
+            "imagem": null
         },
         {
             "id": 19,
@@ -226,7 +244,8 @@
                 "c": "couldn't",
                 "d": "mustn't"
             },
-            "resposta": "d"
+            "resposta": "d",
+            "imagem": null
         },
         {
             "id": 20,
@@ -238,7 +257,8 @@
                 "c": "has rung",
                 "d": "was ringing"
             },
-            "resposta": "b"
+            "resposta": "b",
+            "imagem": null
         },
         {
             "id": 21,
@@ -250,7 +270,8 @@
                 "c": "would have baked",
                 "d": "baked"
             },
-            "resposta": "c"
+            "resposta": "c",
+            "imagem": null
         },
         {
             "id": 22,
@@ -262,7 +283,8 @@
                 "c": "did he leave",
                 "d": "has he left"
             },
-            "resposta": "a"
+            "resposta": "a",
+            "imagem": null
         },
         {
             "id": 23,
@@ -274,7 +296,8 @@
                 "c": "finishing",
                 "d": "being finished"
             },
-            "resposta": "b"
+            "resposta": "b",
+            "imagem": null
         },
         {
             "id": 24,
@@ -286,7 +309,8 @@
                 "c": "was he",
                 "d": "did he"
             },
-            "resposta": "c"
+            "resposta": "c",
+            "imagem": null
         },
         {
             "id": 25,
@@ -298,7 +322,8 @@
                 "c": "aback",
                 "d": "in"
             },
-            "resposta": "d"
+            "resposta": "d",
+            "imagem": null
         },
         {
             "id": 26,
@@ -310,7 +335,8 @@
                 "c": "would finish",
                 "d": "finish"
             },
-            "resposta": "a"
+            "resposta": "a",
+            "imagem": null
         },
         {
             "id": 27,
@@ -322,7 +348,8 @@
                 "c": "resigned",
                 "d": "resigning"
             },
-            "resposta": "b"
+            "resposta": "b",
+            "imagem": null
         },
         {
             "id": 28,
@@ -334,7 +361,8 @@
                 "c": "being",
                 "d": "of being"
             },
-            "resposta": "c"
+            "resposta": "c",
+            "imagem": null
         },
         {
             "id": 29,
@@ -346,7 +374,8 @@
                 "c": "have told",
                 "d": "telling"
             },
-            "resposta": "b"
+            "resposta": "b",
+            "imagem": null
         },
         {
             "id": 30,
@@ -358,7 +387,138 @@
                 "c": "finding",
                 "d": "will find"
             },
-            "resposta": "a"
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 31,
+            "nivel": "Fácil",
+            "pergunta": "What is this fruit in the image?",
+            "opcoes": {
+                "a": "Apple",
+                "b": "Banana",
+                "c": "Orange",
+                "d": "Grape"
+            },
+            "resposta": "a",
+            "imagem": "https://images.unsplash.com/photo-1570913149827-d2ac84ab3f9a?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "id": 32,
+            "nivel": "Fácil",
+            "pergunta": "What animal is shown in the image?",
+            "opcoes": {
+                "a": "Dog",
+                "b": "Cat",
+                "c": "Bird",
+                "d": "Lion"
+            },
+            "resposta": "b",
+            "imagem": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba"
+        },
+        {
+            "id": 33,
+            "nivel": "Fácil",
+            "pergunta": "What color is the car in the image?",
+            "opcoes": {
+                "a": "Red",
+                "b": "Blue",
+                "c": "Green",
+                "d": "Yellow"
+            },
+            "resposta": "a",
+            "imagem": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+        },
+        {
+            "id": 34,
+            "nivel": "Médio",
+            "pergunta": "Identify the landmark in the image.",
+            "opcoes": {
+                "a": "Eiffel Tower",
+                "b": "Statue of Liberty",
+                "c": "Colosseum",
+                "d": "Big Ben"
+            },
+            "resposta": "a",
+            "imagem": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f"
+        },
+        {
+            "id": 35,
+            "nivel": "Médio",
+            "pergunta": "What is the person in the image doing?",
+            "opcoes": {
+                "a": "Running",
+                "b": "Cooking",
+                "c": "Reading",
+                "d": "Sleeping"
+            },
+            "resposta": "c",
+            "imagem": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d"
+        },
+        {
+            "id": 36,
+            "nivel": "Médio",
+            "pergunta": "What season is depicted in the image?",
+            "opcoes": {
+                "a": "Spring",
+                "b": "Summer",
+                "c": "Autumn",
+                "d": "Winter"
+            },
+            "resposta": "d",
+            "imagem": "https://images.unsplash.com/photo-1483921020237-2ff51e8e4b22?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "id": 37,
+            "nivel": "Médio",
+            "pergunta": "Which musical instrument is this?",
+            "opcoes": {
+                "a": "Guitar",
+                "b": "Piano",
+                "c": "Violin",
+                "d": "Drums"
+            },
+            "resposta": "b",
+            "imagem": "https://images.unsplash.com/photo-1552422535-c45813c61732?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "id": 38,
+            "nivel": "Difícil",
+            "pergunta": "What phenomenon is shown in the image?",
+            "opcoes": {
+                "a": "Solar Eclipse",
+                "b": "Northern Lights",
+                "c": "Tornado",
+                "d": "Lunar Eclipse"
+            },
+            "resposta": "b",
+            "imagem": "https://images.unsplash.com/photo-1483347756197-71ef80e95f73?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "id": 39,
+            "nivel": "Difícil",
+            "pergunta": "Identify the historical figure in the portrait.",
+            "opcoes": {
+                "a": "Albert Einstein",
+                "b": "Isaac Newton",
+                "c": "Charles Darwin",
+                "d": "Marie Curie"
+            },
+            "resposta": "a",
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
+        },
+        {
+            "id": 40,
+            "nivel": "Difícil",
+            "pergunta": "What type of architecture is shown here?",
+            "opcoes": {
+                "a": "Gothic",
+                "b": "Modern",
+                "c": "Baroque",
+                "d": "Renaissance"
+            },
+            "resposta": "a",
+            "imagem": "https://images.unsplash.com/photo-1548543604-a87c9909abec"
         }
     ]
 }
