@@ -4,7 +4,7 @@
             "id": 1,
             "nivel": "Fácil",
             "pergunta": "Choose the correct option: '___ you like pizza?'",
-            "opcoes": {
+            "alternativas": {
                 "a": "Does",
                 "b": "Are",
                 "c": "Do",
@@ -17,7 +17,7 @@
             "id": 2,
             "nivel": "Fácil",
             "pergunta": "She ___ a doctor.",
-            "opcoes": {
+            "alternativas": {
                 "a": "am",
                 "b": "is",
                 "c": "are",
@@ -30,7 +30,7 @@
             "id": 3,
             "nivel": "Fácil",
             "pergunta": "I ___ to the park every weekend.",
-            "opcoes": {
+            "alternativas": {
                 "a": "go",
                 "b": "goes",
                 "c": "going",
@@ -43,7 +43,7 @@
             "id": 4,
             "nivel": "Fácil",
             "pergunta": "___ is your name?",
-            "opcoes": {
+            "alternativas": {
                 "a": "Who",
                 "b": "When",
                 "c": "Where",
@@ -56,7 +56,7 @@
             "id": 5,
             "nivel": "Fácil",
             "pergunta": "They ___ playing football now.",
-            "opcoes": {
+            "alternativas": {
                 "a": "is",
                 "b": "am",
                 "c": "are",
@@ -69,7 +69,7 @@
             "id": 6,
             "nivel": "Fácil",
             "pergunta": "I have a brother. ___ name is Tom.",
-            "opcoes": {
+            "alternativas": {
                 "a": "Her",
                 "b": "His",
                 "c": "He",
@@ -82,7 +82,7 @@
             "id": 7,
             "nivel": "Fácil",
             "pergunta": "We don't have ___ milk left.",
-            "opcoes": {
+            "alternativas": {
                 "a": "any",
                 "b": "some",
                 "c": "a",
@@ -95,7 +95,7 @@
             "id": 8,
             "nivel": "Fácil",
             "pergunta": "Look at ___ dog! It's so cute.",
-            "opcoes": {
+            "alternativas": {
                 "a": "these",
                 "b": "those",
                 "c": "then",
@@ -108,7 +108,7 @@
             "id": 9,
             "nivel": "Fácil",
             "pergunta": "He ___ like apples.",
-            "opcoes": {
+            "alternativas": {
                 "a": "doesn't",
                 "b": "don't",
                 "c": "isn't",
@@ -121,7 +121,7 @@
             "id": 10,
             "nivel": "Fácil",
             "pergunta": "Can you help ___?",
-            "opcoes": {
+            "alternativas": {
                 "a": "I",
                 "b": "my",
                 "c": "me",
@@ -134,7 +134,7 @@
             "id": 11,
             "nivel": "Médio",
             "pergunta": "I ___ to London last year.",
-            "opcoes": {
+            "alternativas": {
                 "a": "go",
                 "b": "gone",
                 "c": "went",
@@ -147,7 +147,7 @@
             "id": 12,
             "nivel": "Médio",
             "pergunta": "She has ___ lived here for five years.",
-            "opcoes": {
+            "alternativas": {
                 "a": "yet",
                 "b": "already",
                 "c": "since",
@@ -160,7 +160,7 @@
             "id": 13,
             "nivel": "Médio",
             "pergunta": "This book is ___ than the other one.",
-            "opcoes": {
+            "alternativas": {
                 "a": "gooder",
                 "b": "more good",
                 "c": "better",
@@ -173,7 +173,7 @@
             "id": 14,
             "nivel": "Médio",
             "pergunta": "If it rains, we ___ at home.",
-            "opcoes": {
+            "alternativas": {
                 "a": "will stay",
                 "b": "stay",
                 "c": "would stay",
@@ -186,7 +186,7 @@
             "id": 15,
             "nivel": "Médio",
             "pergunta": "I'm looking forward ___ you.",
-            "opcoes": {
+            "alternativas": {
                 "a": "to see",
                 "b": "seeing",
                 "c": "see",
@@ -199,7 +199,7 @@
             "id": 16,
             "nivel": "Médio",
             "pergunta": "He is used ___ up early.",
-            "opcoes": {
+            "alternativas": {
                 "a": "wake",
                 "b": "to waking",
                 "c": "to wake",
@@ -212,7 +212,7 @@
             "id": 17,
             "nivel": "Médio",
             "pergunta": "The car, ___ was blue, drove past.",
-            "opcoes": {
+            "alternativas": {
                 "a": "which",
                 "b": "who",
                 "c": "whose",
@@ -225,7 +225,7 @@
             "id": 18,
             "nivel": "Médio",
             "pergunta": "They have been working here ___ 2015.",
-            "opcoes": {
+            "alternativas": {
                 "a": "for",
                 "b": "in",
                 "c": "since",
@@ -238,7 +238,7 @@
             "id": 19,
             "nivel": "Médio",
             "pergunta": "You ___ smoke in the hospital.",
-            "opcoes": {
+            "alternativas": {
                 "a": "don't have to",
                 "b": "wouldn't",
                 "c": "couldn't",
@@ -251,7 +251,7 @@
             "id": 20,
             "nivel": "Médio",
             "pergunta": "I was watching TV when the phone ___.",
-            "opcoes": {
+            "alternativas": {
                 "a": "rings",
                 "b": "rang",
                 "c": "has rung",
@@ -264,7 +264,7 @@
             "id": 21,
             "nivel": "Difícil",
             "pergunta": "If I had known you were coming, I ___ a cake.",
-            "opcoes": {
+            "alternativas": {
                 "a": "would bake",
                 "b": "will bake",
                 "c": "would have baked",
@@ -277,7 +277,7 @@
             "id": 22,
             "nivel": "Difícil",
             "pergunta": "Scarcely ___ the house when it started to pour.",
-            "opcoes": {
+            "alternativas": {
                 "a": "had he left",
                 "b": "he had left",
                 "c": "did he leave",
@@ -290,7 +290,7 @@
             "id": 23,
             "nivel": "Difícil",
             "pergunta": "The project is expected ___ by the end of the month.",
-            "opcoes": {
+            "alternativas": {
                 "a": "to finish",
                 "b": "to be finished",
                 "c": "finishing",
@@ -303,7 +303,7 @@
             "id": 24,
             "nivel": "Difícil",
             "pergunta": "Not only ___ late, but he also forgot his notes.",
-            "opcoes": {
+            "alternativas": {
                 "a": "he was",
                 "b": "he did be",
                 "c": "was he",
@@ -316,7 +316,7 @@
             "id": 25,
             "nivel": "Difícil",
             "pergunta": "She was completely taken ___ by his story.",
-            "opcoes": {
+            "alternativas": {
                 "a": "out",
                 "b": "over",
                 "c": "aback",
@@ -329,7 +329,7 @@
             "id": 26,
             "nivel": "Difícil",
             "pergunta": "By this time next year, I ___ my degree.",
-            "opcoes": {
+            "alternativas": {
                 "a": "will have finished",
                 "b": "will finish",
                 "c": "would finish",
@@ -342,7 +342,7 @@
             "id": 27,
             "nivel": "Difícil",
             "pergunta": "The manager insisted that the employee ___ immediately.",
-            "opcoes": {
+            "alternativas": {
                 "a": "resigns",
                 "b": "resign",
                 "c": "resigned",
@@ -355,7 +355,7 @@
             "id": 28,
             "nivel": "Difícil",
             "pergunta": "Despite ___ tired, she kept working.",
-            "opcoes": {
+            "alternativas": {
                 "a": "to be",
                 "b": "she was",
                 "c": "being",
@@ -368,7 +368,7 @@
             "id": 29,
             "nivel": "Difícil",
             "pergunta": "He would rather you ___ him the truth.",
-            "opcoes": {
+            "alternativas": {
                 "a": "tell",
                 "b": "told",
                 "c": "have told",
@@ -381,7 +381,7 @@
             "id": 30,
             "nivel": "Difícil",
             "pergunta": "It's high time you ___ a job.",
-            "opcoes": {
+            "alternativas": {
                 "a": "found",
                 "b": "find",
                 "c": "finding",
@@ -394,7 +394,7 @@
             "id": 31,
             "nivel": "Fácil",
             "pergunta": "What is this fruit in the image?",
-            "opcoes": {
+            "alternativas": {
                 "a": "Apple",
                 "b": "Banana",
                 "c": "Orange",
@@ -407,7 +407,7 @@
             "id": 32,
             "nivel": "Fácil",
             "pergunta": "What animal is shown in the image?",
-            "opcoes": {
+            "alternativas": {
                 "a": "Dog",
                 "b": "Cat",
                 "c": "Bird",
@@ -420,7 +420,7 @@
             "id": 33,
             "nivel": "Fácil",
             "pergunta": "What color is the car in the image?",
-            "opcoes": {
+            "alternativas": {
                 "a": "Red",
                 "b": "Blue",
                 "c": "Green",
@@ -433,7 +433,7 @@
             "id": 34,
             "nivel": "Médio",
             "pergunta": "Identify the landmark in the image.",
-            "opcoes": {
+            "alternativas": {
                 "a": "Eiffel Tower",
                 "b": "Statue of Liberty",
                 "c": "Colosseum",
@@ -446,7 +446,7 @@
             "id": 35,
             "nivel": "Médio",
             "pergunta": "What is the person in the image doing?",
-            "opcoes": {
+            "alternativas": {
                 "a": "Running",
                 "b": "Cooking",
                 "c": "Reading",
@@ -459,7 +459,7 @@
             "id": 36,
             "nivel": "Médio",
             "pergunta": "What season is depicted in the image?",
-            "opcoes": {
+            "alternativas": {
                 "a": "Spring",
                 "b": "Summer",
                 "c": "Autumn",
@@ -472,7 +472,7 @@
             "id": 37,
             "nivel": "Médio",
             "pergunta": "Which musical instrument is this?",
-            "opcoes": {
+            "alternativas": {
                 "a": "Guitar",
                 "b": "Piano",
                 "c": "Violin",
@@ -485,7 +485,7 @@
             "id": 38,
             "nivel": "Difícil",
             "pergunta": "What phenomenon is shown in the image?",
-            "opcoes": {
+            "alternativas": {
                 "a": "Solar Eclipse",
                 "b": "Northern Lights",
                 "c": "Tornado",
@@ -498,7 +498,7 @@
             "id": 39,
             "nivel": "Difícil",
             "pergunta": "Identify the historical figure in the portrait.",
-            "opcoes": {
+            "alternativas": {
                 "a": "Albert Einstein",
                 "b": "Isaac Newton",
                 "c": "Charles Darwin",
@@ -511,7 +511,7 @@
             "id": 40,
             "nivel": "Difícil",
             "pergunta": "What type of architecture is shown here?",
-            "opcoes": {
+            "alternativas": {
                 "a": "Gothic",
                 "b": "Modern",
                 "c": "Baroque",

@@ -1,10 +1,8 @@
 import 'dotenv/config';
 import express from 'express';
 import { createServer } from 'http';
-import { Server } from 'socket.io';
 import cors from 'cors';
-import { setupSocketHandlers } from './socketHandlers';
-import apiRoutes from './apiRoutes';
+import routes from './routes';
 
 const app = express();
 const httpServer = createServer(app);
@@ -21,14 +19,6 @@ const originChecker = (origin: string | undefined, callback: (err: Error | null,
   return callback(new Error('Origin not allowed'), false);
 };
 
-const io = new Server(httpServer, {
-  cors: {
-    origin: originChecker as any,
-    methods: ['GET', 'POST'],
-    credentials: true,
-  },
-});
-
 app.use(cors({ origin: originChecker as any, credentials: true }));
 app.use(express.json());
 
@@ -36,20 +26,19 @@ app.get('/health', (req, res) => {
   res.json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
-app.use('/api', apiRoutes);
-
-setupSocketHandlers(io);
+// Registo das rotas
+app.use('/api', routes);
 
 const PORT = process.env.PORT || 3001;
 
 httpServer.listen(PORT, () => {
   console.log(`
 ╔═══════════════════════════════════════╗
-║   🚀 QuickQuiz Backend Server        ║
+║   🚀 QuickQuiz Backend Server         ║
 ║                                       ║
-║   📡 Socket.IO: http://localhost:${PORT}  ║
+║   📡 Socket.IO: http://localhost:${PORT}   ║
 ║   ✅ Status: Running                  ║
-║   🕐 Started: ${new Date().toLocaleString('pt-BR')}     ║
+║   🕐 Started: ${new Date().toLocaleString('pt-PT')}     ║
 ╚═══════════════════════════════════════╝
   `);
 });
