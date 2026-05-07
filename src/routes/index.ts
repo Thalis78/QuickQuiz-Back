@@ -1,10 +1,8 @@
-import { Router } from 'express';
-import * as authController from '../controllers/authController';
-// import { validateProfessor } from '../middlewares/authMiddleware';
+import { Router } from "express";
+import * as authController from "../controllers/authController";
 
 const router = Router();
 
-// Rota de login
-router.post('/auth/validate', authController.loginProfessor);
+router.post("/login", authController.loginProfessor);
 
 export default router;
