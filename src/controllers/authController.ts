@@ -13,11 +13,13 @@ export const loginProfessor = (req: Request, res: Response) => {
       expiresIn: "2h",
     });
 
+    console.log("Login realizado com sucesso!");
     return res.json({
       success: true,
       token,
     });
   }
 
+  console.log("Erro ao realizar o login");
   res.status(401).json({ success: false, error: "Email ou senha incorretos" });
 };
