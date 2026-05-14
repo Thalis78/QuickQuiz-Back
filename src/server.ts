@@ -36,9 +36,9 @@ httpServer.listen(PORT, () => {
 ╔═══════════════════════════════════════╗
 ║   🚀 QuickQuiz Backend Server         ║
 ║                                       ║
-║   📡 Socket.IO: http://localhost:${PORT}   ║
+║   📡 URL: http://localhost:${PORT}       ║
 ║   ✅ Status: Running                  ║
-║   🕐 Started: ${new Date().toLocaleString('pt-PT')}     ║
+║   🕐 Started: ${new Date().toLocaleString('pt-PT')}    ║
 ╚═══════════════════════════════════════╝
   `);
 });
