@@ -2,12 +2,12 @@ import { Request, Response } from "express";
 import { RoomService } from "../services/roomServices"; 
 import { QuizService } from "../services/quizServices";
 
+const roomService = new RoomService();
+const quizService = new QuizService();
+
 export const criarSala = async (req: Request, res: Response) => {
     try {
         const { titulo, quantidade, tempo, nivel } = req.body;
-
-        const roomService = new RoomService();
-        const quizService = new QuizService();
 
         const quizQuestoes = quizService.getQuestoes(quantidade, nivel);
         const quizConfig = quizService.setQuizConfig(titulo, quantidade, tempo, nivel);
