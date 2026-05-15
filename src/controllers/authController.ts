@@ -1,25 +1,17 @@
 import { Request, Response } from "express";
-import jwt from "jsonwebtoken";
+import { AuthService } from "../services/authServices";
 
-const JWT_SECRET = "ciel_secret_key_2026_safe";
+const authService = new AuthService();
 
-export const loginProfessor = (req: Request, res: Response) => {
+export const loginProfessor = async (req: Request, res: Response) => {
   const { email, password } = req.body;
-  const correctEmail = process.env.PROFESSOR_EMAIL;
-  const correctPassword = process.env.PROFESSOR_PASSWORD;
 
-  if (email === correctEmail && password === correctPassword) {
-    const token = jwt.sign({ email, type: "professor" }, JWT_SECRET, {
-      expiresIn: "2h",
-    });
-
-    console.log("Login realizado com sucesso!");
-    return res.json({
-      success: true,
-      token,
-    });
+  try {
+    const login = await authService.loginProfessor(email, password);
+    
+    return res.json(login);
+  } catch (err: any) {
+    console.log("Erro no processo de login:", err.message);
+    return res.status(401).json({ success: false, error: "Email ou senha incorretos" });
   }
-
-  console.log("Erro ao realizar o login");
-  res.status(401).json({ success: false, error: "Email ou senha incorretos" });
 };
