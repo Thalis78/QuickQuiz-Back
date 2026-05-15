@@ -1,9 +1,8 @@
 export interface Student {
   id: string;
   name: string;
-  joinedAt: Date;
-  answers: Map<number, string>;
   score: number;
+  joinedAt: Date;
 }
 
 export interface Alternatives {
