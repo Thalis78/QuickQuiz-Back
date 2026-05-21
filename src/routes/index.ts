@@ -13,4 +13,6 @@ router.get("/sala/:codigo", authMiddleware, roomController.obterSala);
 
 router.post("/sala/:codigo/aluno", roomController.adicionarAluno);
 
+router.delete("/sala/:codigo/aluno/:alunoNome", roomController.removerAluno);
+
 export default router;

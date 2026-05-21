@@ -14,6 +14,7 @@ export const criarSala = async (req: Request, res: Response) => {
         const quiz = quizService.createQuiz(quizConfig, quizQuestoes);
         const salaCodigo = roomService.createRoom(quiz);
 
+        console.log(`Sala ${salaCodigo} criada com sucesso!`);
         return res.status(201).json({ sala_codigo: salaCodigo });
     } catch (error: any) {
         console.error("Erro ao criar sala:", error.message);
@@ -30,6 +31,7 @@ export const obterSala = async (req: Request, res: Response) => {
         const sala = roomService.getRoom(codigo);
 
         if (!sala) {
+            console.log(`Sala ${codigo} não encontrada.`)
             return res.status(404).json({ error: "Sala não encontrada." });
         }
 
@@ -49,6 +51,7 @@ export const obterSala = async (req: Request, res: Response) => {
             alunos
         };
 
+        console.log(`Sala ${codigo} obtida com sucesso!`)
         return res.status(200).json(dadosSala);
     } catch (error: any) {
         console.error("Erro ao obter sala:", error.message);
@@ -64,6 +67,7 @@ export const adicionarAluno = async (req: Request, res: Response) => {
         const { nome } = req.body;
 
         if (!nome || nome.trim() === "") {
+            console.log(`O nome do Aluno é obrigatório.`)
             return res.status(400).json({ error: "O nome do aluno é obrigatório." });
         }
 
@@ -73,6 +77,7 @@ export const adicionarAluno = async (req: Request, res: Response) => {
         });
 
         if (!novoAluno) {
+            console.log(`Não foi possível adicionar o Aluno ${nome}.`);
             return res.status(400).json({ 
                 error: "Não foi possível entrar na sala. Verifique se o código está correto, se a sala já iniciou ou se o nome já está em uso." 
             });
@@ -85,11 +90,52 @@ export const adicionarAluno = async (req: Request, res: Response) => {
             joinedAt: novoAluno.joinedAt
         };
 
+        console.log(`Aluno ${nome} adicionado com sucesso!`);
         return res.status(201).json(alunoFormatado);
     } catch (error: any) {
         console.error("Erro ao adicionar aluno:", error.message);
         return res.status(500).json({ 
             error: "Erro interno ao adicionar o aluno à sala." 
+        });
+    }
+}
+
+export const removerAluno = async (req: Request, res: Response) => {
+    try {
+        const { codigo, alunoNome } = req.params;
+
+        const sala = roomService.getRoom(codigo);
+        
+        if (!sala) {
+            console.log(`Sala ${codigo} não encontrada.`);
+            return res.status(404).json({ error: "Sala não encontrada." });
+        }
+
+        let alunoIdParaRemover: string | null = null;
+
+        for (const [id, student] of sala.students.entries()) {
+            if (student.name.toLowerCase() === alunoNome.toLowerCase()) {
+                alunoIdParaRemover = id;
+                break;
+            }
+        }
+
+        if (!alunoIdParaRemover) {
+            console.log(`Aluno ${alunoNome} não encontrado na Sala ${codigo}.`);
+            return res.status(404).json({ error: "Aluno não encontrado nesta Sala." });
+        }
+
+        roomService.removeStudent(codigo, alunoIdParaRemover);
+
+        console.log(`Aluno ${alunoNome} saiu da Sala ${codigo}`);
+        return res.status(200).json({ 
+            success: true, 
+            message: `Aluno ${alunoNome} removido com sucesso.` 
+        });
+    } catch (error: any) {
+        console.error("Erro ao remover Aluno:", error.message);
+        return res.status(500).json({ 
+            error: "Erro interno ao tentar remover o Aluno." 
         });
     }
 }

@@ -29,12 +29,10 @@ export class RoomService {
 
     this.rooms.set(code, room);
 
-    console.log(`Sala ${code} criada com sucesso!`);
     return code;
   }
 
   getRoom(code: string): Room | undefined {
-    console.log(`Sala ${code} obtida com sucesso!`)
     return this.rooms.get(code);
   }
 
@@ -44,13 +42,11 @@ export class RoomService {
     if (!room) return null;
 
     if (room.status !== 'waiting') {
-      console.log(`Tentativa de entrar na Sala ${code} que já iniciou.`);
       return null;
     }
 
     for (const existingStudent of room.students.values()) {
       if (existingStudent.name.toLowerCase() === student.name.toLowerCase()) {
-        console.log(`Nome duplicado na Sala ${code}: ${student.name}`);
         return null;
       }
     }
@@ -62,22 +58,21 @@ export class RoomService {
     };
 
     room.students.set(newStudent.id, newStudent);
-    console.log(`Aluno ${newStudent.name} adicionado com sucesso!`);
+    
     return newStudent;
   }
 
-  // removeStudent(code: string, studentId: string): void {
-  //   const room = this.rooms.get(code);
+  removeStudent(code: string, studentId: string): void {
+    const room = this.rooms.get(code);
 
-  //   if (!room) return;
+    if (!room) return;
 
-  //   const student = room.students.get(studentId);
+    const student = room.students.get(studentId);
 
-  //   if (student) {
-  //     room.students.delete(studentId);
-  //     console.log(`Aluno ${student.name} saiu da sala ${code}`);
-  //   }
-  // }
+    if (student) {
+      room.students.delete(studentId);
+    }
+  }
 
   // startQuiz(code: string): boolean {
   //   const room = this.rooms.get(code);
