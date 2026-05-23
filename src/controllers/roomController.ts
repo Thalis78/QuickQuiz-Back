@@ -209,7 +209,7 @@ export const atualizarPontuacao = async (req: Request, res: Response) => {
       );
       return res.status(400).json({
         error:
-          "Não foi possível atualizar a pontuação do aluno. Verifique se o nome está correto.",
+          "Não foi possível atualizar a pontuação do aluno. Verifique se o nome está correto ou se a sala foi iniciada.",
       });
     }
 

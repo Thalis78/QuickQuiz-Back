@@ -101,7 +101,7 @@ export class RoomService {
   scoreStudent(code: string, studentId: string, score: number): boolean {
     const room = this.rooms.get(code);
     
-    if (!room || room.started) return false;
+    if (!room || !room.started) return false;
 
     const student = room.students.get(studentId);
 
