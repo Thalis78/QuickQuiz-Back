@@ -44,7 +44,7 @@ export interface Room {
   code: string;
   quiz: Quiz;
   students: Map<string, Student>;
-  status: 'waiting' | 'playing' | 'finished';
+  started: boolean;
   currentQuestionIndex: number;
   questionStartTime?: Date;
   questionTimer?: NodeJS.Timeout;
