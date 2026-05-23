@@ -111,21 +111,14 @@ export const removerAluno = async (req: Request, res: Response) => {
             return res.status(404).json({ error: "Sala não encontrada." });
         }
 
-        let alunoIdParaRemover: string | null = null;
+        const aluno = roomService.getStudentByName(codigo, alunoNome);
 
-        for (const [id, student] of sala.students.entries()) {
-            if (student.name.toLowerCase() === alunoNome.toLowerCase()) {
-                alunoIdParaRemover = id;
-                break;
-            }
-        }
-
-        if (!alunoIdParaRemover) {
-            console.log(`Aluno ${alunoNome} não encontrado na Sala ${codigo}.`);
+        if (!aluno) {
+            console.log(`Aluno ${codigo} não encontrado na Sala ${codigo}.`);
             return res.status(404).json({ error: "Aluno não encontrado nesta Sala." });
         }
 
-        roomService.removeStudent(codigo, alunoIdParaRemover);
+        roomService.removeStudent(codigo, aluno.id);
 
         console.log(`Aluno ${alunoNome} saiu da Sala ${codigo}`);
         return res.status(200).json({ 
@@ -136,6 +129,78 @@ export const removerAluno = async (req: Request, res: Response) => {
         console.error("Erro ao remover Aluno:", error.message);
         return res.status(500).json({ 
             error: "Erro interno ao tentar remover o Aluno." 
+        });
+    }
+}
+
+export const iniciarSala = async (req: Request, res: Response) => {
+    try {
+        const { codigo } = req.params;
+
+        const salaIniciada = roomService.startQuiz(codigo);
+
+        if (!salaIniciada) {
+            console.log(`Não foi possível iniciar a Sala ${codigo}.`);
+            return res.status(400).json({ 
+                error: "Não foi possível iniciar a sala. Verifique se o código está correto ou se ela já foi iniciada." 
+            });
+        }
+        
+        console.log(`Sala ${codigo} iniciada com sucesso!`);
+        return res.status(200).json({ 
+            success: true, 
+            message: "Sala iniciada com sucesso!" 
+        });
+    } catch (error: any) {
+        console.error("Erro ao remover Aluno:", error.message);
+        return res.status(500).json({ 
+            error: "Erro interno ao tentar remover o Aluno." 
+        });
+    }
+}
+
+export const atualizarPontuacao = async (req: Request, res: Response) => {
+    try {
+        const { codigo, alunoNome } = req.params;
+        const { pontuacao } = req.body;
+
+        if (pontuacao === undefined || typeof pontuacao !== 'number') {
+            console.log("Pontuação inválida.");
+            return res.status(400).json({ error: "O novo valor de 'pontuacao' é obrigatório e deve ser um número." });
+        }
+
+        const sala = roomService.getRoom(codigo);
+        
+        if (!sala) {
+            console.log(`Sala ${codigo} não encontrada.`);
+            return res.status(404).json({ error: "Sala não encontrada." });
+        }
+
+        const aluno = roomService.getStudentByName(codigo, alunoNome);
+
+        if (!aluno) {
+            console.log(`Aluno ${codigo} não encontrado na Sala ${codigo}.`);
+            return res.status(404).json({ error: "Aluno não encontrado nesta Sala." });
+        }
+
+        const alunoPontuado = roomService.scoreStudent(codigo, aluno.id, pontuacao);
+
+        if (!alunoPontuado) {
+            console.log(`Não foi possível atualizar a pontuação do Aluno ${alunoNome}.`);
+            return res.status(400).json({ 
+                error: "Não foi possível atualizar a pontuação do aluno. Verifique se o nome está correto." 
+            });
+        }
+        
+        console.log(`A pontuação do Aluno ${alunoNome} foi atualizada com sucesso!`);
+        return res.status(200).json({ 
+            success: true, 
+            message: "Pontuação atualizada com sucesso.",
+        });
+    } catch (error: any) {
+        console.error("Erro ao atualizar pontuação do estudante:", error.message);
+        return res.status(500).json({ 
+            error: "Erro interno ao tentar atualizar a pontuação." 
         });
     }
 }

@@ -22,7 +22,7 @@ export class RoomService {
       code,
       quiz,
       students: new Map(),
-      status: 'waiting',
+      started: false,
       currentQuestionIndex: -1,
       createdAt: new Date(),
     };
@@ -36,12 +36,24 @@ export class RoomService {
     return this.rooms.get(code);
   }
 
+  getStudentByName(code: string, studentName: string): Student | undefined {
+    const room = this.rooms.get(code);
+
+    if (!room) return;
+
+    for (const student of room.students.values()) {
+      if (student.name.toLowerCase() === studentName.toLowerCase()) {
+          return student;
+      }
+    }
+  }
+
   addStudent(code: string, student: Omit<Student, 'id' | 'score'>): Student | null {
     const room = this.rooms.get(code);
 
     if (!room) return null;
 
-    if (room.status !== 'waiting') {
+    if (room.started) {
       return null;
     }
 
@@ -74,17 +86,33 @@ export class RoomService {
     }
   }
 
-  // startQuiz(code: string): boolean {
-  //   const room = this.rooms.get(code);
+  startQuiz(code: string): boolean {
+    const room = this.rooms.get(code);
     
-  //   if (!room || room.status !== 'waiting') return false;
+    if (!room || room.started) return false;
 
-  //   room.status = 'playing';
-  //   room.currentQuestionIndex = 0;
-  //   room.questionStartTime = new Date();
-  //   console.log(`Quiz iniciado na sala ${code}`);
-  //   return true;
-  // }
+    room.started = true;
+    room.currentQuestionIndex = 0;
+    room.questionStartTime = new Date();
+
+    return true;
+  }
+
+  scoreStudent(code: string, studentId: string, score: number): boolean {
+    const room = this.rooms.get(code);
+    
+    if (!room || room.started) return false;
+
+    const student = room.students.get(studentId);
+
+    if (!student) {
+      return false;
+    }
+
+    student.score += score;
+
+    return true;
+  }
 
   // clearQuestionTimer(code: string): void {
   //   const room = this.rooms.get(code);
