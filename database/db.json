@@ -3,7 +3,7 @@
         {
             "id": 1,
             "nivel": "Fácil",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Dog",
                 "b": "Cat",
@@ -11,12 +11,12 @@
                 "d": "Lion"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/1.jpg"
+            "imagem": "/questoes/1.jpg"
         },
         {
             "id": 2,
             "nivel": "Fácil",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Dog",
                 "b": "Elephant",
@@ -24,12 +24,12 @@
                 "d": "Cow"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/2.jpg"
+            "imagem": "/questoes/2.jpg"
         },
         {
             "id": 3,
             "nivel": "Fácil",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Horse",
                 "b": "Mouse",
@@ -37,12 +37,12 @@
                 "d": "Duck"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/3.jpg"
+            "imagem": "/questoes/3.jpg"
         },
         {
             "id": 4,
             "nivel": "Fácil",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Tiger",
                 "b": "Lion",
@@ -50,12 +50,12 @@
                 "d": "Zebra"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/4.jpg"
+            "imagem": "/questoes/4.jpg"
         },
         {
             "id": 5,
             "nivel": "Fácil",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Frog",
                 "b": "Shark",
@@ -63,12 +63,12 @@
                 "d": "Turtle"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/5.jpg"
+            "imagem": "/questoes/5.jpg"
         },
         {
             "id": 6,
             "nivel": "Fácil",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Banana",
                 "b": "Orange",
@@ -76,12 +76,12 @@
                 "d": "Grape"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/6.jpg"
+            "imagem": "/questoes/6.jpg"
         },
         {
             "id": 7,
             "nivel": "Fácil",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Banana",
                 "b": "Melon",
@@ -89,12 +89,12 @@
                 "d": "Lemon"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/7.jpg"
+            "imagem": "/questoes/7.jpg"
         },
         {
             "id": 8,
             "nivel": "Fácil",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Limon",
                 "b": "Orange",
@@ -102,12 +102,12 @@
                 "d": "Grape"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/8.jpg"
+            "imagem": "/questoes/8.jpg"
         },
         {
             "id": 9,
             "nivel": "Fácil",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Grape",
                 "b": "Pear",
@@ -115,12 +115,12 @@
                 "d": "Mango"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/9.jpg"
+            "imagem": "/questoes/9.jpg"
         },
         {
             "id": 10,
             "nivel": "Fácil",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Watermelon",
                 "b": "Pineapple",
@@ -128,25 +128,25 @@
                 "d": "Papaya"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/10.jpg"
+            "imagem": "/questoes/10.jpg"
         },
         {
             "id": 11,
             "nivel": "Fácil",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Pen",
                 "b": "Pencil",
-                "c": "Notebook",
+                "c": "Eraser",
                 "d": "Book"
             },
             "resposta": "d",
-            "imagem": "/public/questoes/11.jpg"
+            "imagem": "/questoes/11.jpg"
         },
         {
             "id": 12,
             "nivel": "Fácil",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Eraser",
                 "b": "Pen",
@@ -154,12 +154,12 @@
                 "d": "Desk"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/12.jpg"
+            "imagem": "/questoes/12.jpg"
         },
         {
             "id": 13,
             "nivel": "Fácil",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Table",
                 "b": "Chair",
@@ -167,12 +167,12 @@
                 "d": "Sofa"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/13.jpg"
+            "imagem": "/questoes/13.jpg"
         },
         {
             "id": 14,
             "nivel": "Fácil",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Key",
                 "b": "Door",
@@ -180,12 +180,12 @@
                 "d": "Table"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/14.jpg"
+            "imagem": "/questoes/14.jpg"
         },
         {
             "id": 15,
             "nivel": "Fácil",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Mouse",
                 "b": "Screen",
@@ -193,12 +193,12 @@
                 "d": "Keyboard"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/15.jpg"
+            "imagem": "/questoes/15.jpg"
         },
         {
             "id": 16,
             "nivel": "Fácil",
-            "pergunta": "Qual é o veículo mostrado na imagem?",
+            "pergunta": "What is the name of this vehicle?",
             "alternativas": {
                 "a": "Car",
                 "b": "Bus",
@@ -206,12 +206,12 @@
                 "d": "Bicycle"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/16.jpg"
+            "imagem": "/questoes/16.jpg"
         },
         {
             "id": 17,
             "nivel": "Fácil",
-            "pergunta": "Qual é o veículo mostrado na imagem?",
+            "pergunta": "What is the name of this vehicle?",
             "alternativas": {
                 "a": "Airplane",
                 "b": "Boat",
@@ -219,12 +219,12 @@
                 "d": "Motorcycle"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/17.jpg"
+            "imagem": "/questoes/17.jpg"
         },
         {
             "id": 18,
             "nivel": "Fácil",
-            "pergunta": "Qual é a peça de roupa mostrada na imagem?",
+            "pergunta": "What is the name of this piece of clothing?",
             "alternativas": {
                 "a": "Pants",
                 "b": "T-shirt",
@@ -232,12 +232,12 @@
                 "d": "Hat"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/18.jpg"
+            "imagem": "/questoes/18.jpg"
         },
         {
             "id": 19,
             "nivel": "Fácil",
-            "pergunta": "Qual é a peça de roupa mostrada na imagem?",
+            "pergunta": "What is the name of this piece of clothing?",
             "alternativas": {
                 "a": "Shoes",
                 "b": "Socks",
@@ -245,30 +245,30 @@
                 "d": "Scarf"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/19.jpg"
+            "imagem": "/questoes/19.jpg"
         },
         {
             "id": 20,
             "nivel": "Fácil",
-            "pergunta": "O que é mostrado na imagem?",
+            "pergunta": "What is the name of this?",
             "alternativas": {
                 "a": "Moon",
                 "b": "Star",
                 "c": "Sun",
-                "d": "Cloud"
+                "d": "Asteroid"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/20.jpg"
+            "imagem": "/questoes/20.jpg"
         },
         {
             "id": 21,
             "nivel": "Fácil",
-            "pergunta": "Qual é o significado do verbo 'to run'?",
+            "pergunta": "I like to ___ in the park every morning.",
             "alternativas": {
-                "a": "Caminhar",
-                "b": "Correr",
-                "c": "Pular",
-                "d": "Dançar"
+                "a": "sleep",
+                "b": "run",
+                "c": "drink",
+                "d": "cook"
             },
             "resposta": "b",
             "imagem": null
@@ -276,12 +276,12 @@
         {
             "id": 22,
             "nivel": "Fácil",
-            "pergunta": "Como se diz o verbo 'comer' em inglês?",
+            "pergunta": "I am hungry, I want to ___ an apple.",
             "alternativas": {
-                "a": "Drink",
-                "b": "Sleep",
-                "c": "Eat",
-                "d": "Cook"
+                "a": "drink",
+                "b": "sleep",
+                "c": "eat",
+                "d": "cook"
             },
             "resposta": "c",
             "imagem": null
@@ -289,7 +289,7 @@
         {
             "id": 23,
             "nivel": "Fácil",
-            "pergunta": "Qual é a forma correta do verbo 'to be' para o pronome 'He'?",
+            "pergunta": "He ___ my best friend.",
             "alternativas": {
                 "a": "am",
                 "b": "are",
@@ -302,12 +302,12 @@
         {
             "id": 24,
             "nivel": "Fácil",
-            "pergunta": "O que significa o verbo 'to sleep'?",
+            "pergunta": "It is late, I need to ___.",
             "alternativas": {
-                "a": "Sonhar",
-                "b": "Acordar",
-                "c": "Descansar",
-                "d": "Dormir"
+                "a": "read",
+                "b": "wake",
+                "c": "rest",
+                "d": "sleep"
             },
             "resposta": "d",
             "imagem": null
@@ -315,12 +315,12 @@
         {
             "id": 25,
             "nivel": "Fácil",
-            "pergunta": "Como se diz o verbo 'beber' em inglês?",
+            "pergunta": "I am thirsty, I want to ___ some water.",
             "alternativas": {
-                "a": "Drink",
-                "b": "Eat",
-                "c": "Wash",
-                "d": "Open"
+                "a": "drink",
+                "b": "eat",
+                "c": "wash",
+                "d": "open"
             },
             "resposta": "a",
             "imagem": null
@@ -328,7 +328,7 @@
         {
             "id": 26,
             "nivel": "Fácil",
-            "pergunta": "Qual pronome significa 'Eu' em inglês?",
+            "pergunta": "___ am very happy today.",
             "alternativas": {
                 "a": "You",
                 "b": "I",
@@ -341,7 +341,7 @@
         {
             "id": 27,
             "nivel": "Fácil",
-            "pergunta": "Qual pronome é usado para se referir a 'Ela'?",
+            "pergunta": "Mary is my sister. ___ is very tall.",
             "alternativas": {
                 "a": "He",
                 "b": "She",
@@ -354,7 +354,7 @@
         {
             "id": 28,
             "nivel": "Fácil",
-            "pergunta": "Qual pronome usamos para animais ou objetos no singular?",
+            "pergunta": "Look at the dog. ___ is so cute.",
             "alternativas": {
                 "a": "It",
                 "b": "They",
@@ -367,12 +367,12 @@
         {
             "id": 29,
             "nivel": "Fácil",
-            "pergunta": "O pronome 'We' significa qual palavra em português?",
+            "pergunta": "___ are going to the cinema together.",
             "alternativas": {
-                "a": "Eles",
-                "b": "Vós",
-                "c": "Nós",
-                "d": "Elas"
+                "a": "I",
+                "b": "She",
+                "c": "We",
+                "d": "He"
             },
             "resposta": "c",
             "imagem": null
@@ -380,7 +380,7 @@
         {
             "id": 30,
             "nivel": "Fácil",
-            "pergunta": "Qual pronome significa 'Eles' ou 'Elas'?",
+            "pergunta": "Tom and Jerry are brothers. ___ like playing football.",
             "alternativas": {
                 "a": "We",
                 "b": "You",
@@ -393,12 +393,12 @@
         {
             "id": 31,
             "nivel": "Fácil",
-            "pergunta": "Como se diz o adjetivo 'feliz' em inglês?",
+            "pergunta": "She is smiling because she is ___.",
             "alternativas": {
-                "a": "Sad",
-                "b": "Angry",
-                "c": "Happy",
-                "d": "Tired"
+                "a": "sad",
+                "b": "angry",
+                "c": "happy",
+                "d": "tired"
             },
             "resposta": "c",
             "imagem": null
@@ -406,12 +406,12 @@
         {
             "id": 32,
             "nivel": "Fácil",
-            "pergunta": "Qual é a tradução de 'grande' em inglês?",
+            "pergunta": "An elephant is a very ___ animal.",
             "alternativas": {
-                "a": "Small",
-                "b": "Big",
-                "c": "Tall",
-                "d": "Short"
+                "a": "small",
+                "b": "big",
+                "c": "tall",
+                "d": "short"
             },
             "resposta": "b",
             "imagem": null
@@ -419,12 +419,12 @@
         {
             "id": 33,
             "nivel": "Fácil",
-            "pergunta": "O que significa o adjetivo 'beautiful'?",
+            "pergunta": "The flowers in the garden are very ___.",
             "alternativas": {
-                "a": "Feio",
-                "b": "Bonito",
-                "c": "Magro",
-                "d": "Alto"
+                "a": "ugly",
+                "b": "beautiful",
+                "c": "thin",
+                "d": "sad"
             },
             "resposta": "b",
             "imagem": null
@@ -432,12 +432,12 @@
         {
             "id": 34,
             "nivel": "Fácil",
-            "pergunta": "Como se diz 'frio' em inglês?",
+            "pergunta": "In winter, the weather is usually very ___.",
             "alternativas": {
-                "a": "Hot",
-                "b": "Warm",
-                "c": "Cold",
-                "d": "Dry"
+                "a": "hot",
+                "b": "warm",
+                "c": "cold",
+                "d": "dry"
             },
             "resposta": "c",
             "imagem": null
@@ -445,12 +445,12 @@
         {
             "id": 35,
             "nivel": "Fácil",
-            "pergunta": "Qual é a tradução de 'novo' em inglês?",
+            "pergunta": "I just bought a ___ car.",
             "alternativas": {
-                "a": "Old",
-                "b": "Young",
-                "c": "New",
-                "d": "Modern"
+                "a": "hot",
+                "b": "young",
+                "c": "new",
+                "d": "cold"
             },
             "resposta": "c",
             "imagem": null
@@ -458,12 +458,12 @@
         {
             "id": 36,
             "nivel": "Fácil",
-            "pergunta": "Como se diz o número 'três' em inglês?",
+            "pergunta": "I have ___ apples: one for me, one for you, and one for him.",
             "alternativas": {
-                "a": "Two",
-                "b": "Three",
-                "c": "Four",
-                "d": "Five"
+                "a": "two",
+                "b": "three",
+                "c": "four",
+                "d": "five"
             },
             "resposta": "b",
             "imagem": null
@@ -471,12 +471,12 @@
         {
             "id": 37,
             "nivel": "Fácil",
-            "pergunta": "Qual é o número correspondente à palavra 'seven'?",
+            "pergunta": "A week has ___ days.",
             "alternativas": {
-                "a": "6",
-                "b": "7",
-                "c": "8",
-                "d": "9"
+                "a": "six",
+                "b": "seven",
+                "c": "eight",
+                "d": "nine"
             },
             "resposta": "b",
             "imagem": null
@@ -484,12 +484,12 @@
         {
             "id": 38,
             "nivel": "Fácil",
-            "pergunta": "Como se diz o número 'dez' em inglês?",
+            "pergunta": "I have ___ fingers on my hands.",
             "alternativas": {
-                "a": "One",
-                "b": "Five",
-                "c": "Eight",
-                "d": "Ten"
+                "a": "one",
+                "b": "five",
+                "c": "eight",
+                "d": "ten"
             },
             "resposta": "d",
             "imagem": null
@@ -497,12 +497,12 @@
         {
             "id": 39,
             "nivel": "Fácil",
-            "pergunta": "Qual é a tradução correta da frase 'I love my family'?",
+            "pergunta": "I ___ my family very much.",
             "alternativas": {
-                "a": "Eu amo meus amigos",
-                "b": "Eu amo minha família",
-                "c": "Eu gosto da minha casa",
-                "d": "Eu vejo minha família"
+                "a": "eat",
+                "b": "love",
+                "c": "drink",
+                "d": "read"
             },
             "resposta": "b",
             "imagem": null
@@ -510,12 +510,12 @@
         {
             "id": 40,
             "nivel": "Fácil",
-            "pergunta": "Como se diz a frase simples 'O céu é azul' em inglês?",
+            "pergunta": "Look up, the sky is ___ today.",
             "alternativas": {
-                "a": "The sky is blue",
-                "b": "The sun is yellow",
-                "c": "The sea is green",
-                "d": "The sky is black"
+                "a": "blue",
+                "b": "red",
+                "c": "green",
+                "d": "black"
             },
             "resposta": "a",
             "imagem": null
@@ -523,7 +523,7 @@
         {
             "id": 41,
             "nivel": "Médio",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Donkey",
                 "b": "Monkey",
@@ -531,12 +531,12 @@
                 "d": "Fox"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/41.jpg"
+            "imagem": "/questoes/41.jpg"
         },
         {
             "id": 42,
             "nivel": "Médio",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Bear",
                 "b": "Butterfly",
@@ -544,12 +544,12 @@
                 "d": "Bull"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/42.jpg"
+            "imagem": "/questoes/42.jpg"
         },
         {
             "id": 43,
             "nivel": "Médio",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Dolphin",
                 "b": "Whale",
@@ -557,12 +557,12 @@
                 "d": "Seal"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/43.jpg"
+            "imagem": "/questoes/43.jpg"
         },
         {
             "id": 44,
             "nivel": "Médio",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Fox",
                 "b": "Wolf",
@@ -570,12 +570,12 @@
                 "d": "Tiger"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/44.jpg"
+            "imagem": "/questoes/44.jpg"
         },
         {
             "id": 45,
             "nivel": "Médio",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Eagle",
                 "b": "Hawk",
@@ -583,25 +583,25 @@
                 "d": "Owl"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/45.jpg"
+            "imagem": "/questoes/45.jpg"
         },
         {
             "id": 46,
             "nivel": "Médio",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
-                "a": "Blueberry",
-                "b": "Raspberry",
+                "a": "Apple",
+                "b": "Orange",
                 "c": "Strawberry",
-                "d": "Blackberry"
+                "d": "Cherry"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/46.jpg"
+            "imagem": "/questoes/46.jpg"
         },
         {
             "id": 47,
             "nivel": "Médio",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Peach",
                 "b": "Pear",
@@ -609,12 +609,12 @@
                 "d": "Fig"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/47.jpg"
+            "imagem": "/questoes/47.jpg"
         },
         {
             "id": 48,
             "nivel": "Médio",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Melon",
                 "b": "Papaya",
@@ -622,12 +622,12 @@
                 "d": "Apple"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/48.jpg"
+            "imagem": "/questoes/48.jpg"
         },
         {
             "id": 49,
             "nivel": "Médio",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Cherry",
                 "b": "Berry",
@@ -635,12 +635,12 @@
                 "d": "Plum"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/49.jpg"
+            "imagem": "/questoes/49.jpg"
         },
         {
             "id": 50,
             "nivel": "Médio",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Grape",
                 "b": "Lemon",
@@ -648,12 +648,12 @@
                 "d": "Apple"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/50.jpg"
+            "imagem": "/questoes/50.jpg"
         },
         {
             "id": 51,
             "nivel": "Médio",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Window",
                 "b": "Glass",
@@ -661,12 +661,12 @@
                 "d": "Wall"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/51.jpg"
+            "imagem": "/questoes/51.jpg"
         },
         {
             "id": 52,
             "nivel": "Médio",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Bag",
                 "b": "Clock",
@@ -674,12 +674,12 @@
                 "d": "Scissors"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/52.jpg"
+            "imagem": "/questoes/52.jpg"
         },
         {
             "id": 53,
             "nivel": "Médio",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Clock",
                 "b": "Bag",
@@ -687,12 +687,12 @@
                 "d": "Compass"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/53.jpg"
+            "imagem": "/questoes/53.jpg"
         },
         {
             "id": 54,
             "nivel": "Médio",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Blanket",
                 "b": "Sheet",
@@ -700,12 +700,12 @@
                 "d": "Pillow"
             },
             "resposta": "d",
-            "imagem": "/public/questoes/54.jpg"
+            "imagem": "/questoes/54.jpg"
         },
         {
             "id": 55,
             "nivel": "Médio",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Knife",
                 "b": "Scissors",
@@ -713,12 +713,12 @@
                 "d": "Screwdriver"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/55.jpg"
+            "imagem": "/questoes/55.jpg"
         },
         {
             "id": 56,
             "nivel": "Médio",
-            "pergunta": "Qual é o instrumento musical mostrado na imagem?",
+            "pergunta": "What is the name of this musical instrument?",
             "alternativas": {
                 "a": "Guitar",
                 "b": "Piano",
@@ -726,12 +726,12 @@
                 "d": "Drums"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/56.jpg"
+            "imagem": "/questoes/56.jpg"
         },
         {
             "id": 57,
             "nivel": "Médio",
-            "pergunta": "Qual é o instrumento musical mostrado na imagem?",
+            "pergunta": "What is the name of this musical instrument?",
             "alternativas": {
                 "a": "Flute",
                 "b": "Trumpet",
@@ -739,12 +739,12 @@
                 "d": "Saxophone"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/57.jpg"
+            "imagem": "/questoes/57.jpg"
         },
         {
             "id": 58,
             "nivel": "Médio",
-            "pergunta": "Qual é o meio de transporte mostrado na imagem?",
+            "pergunta": "What is the name of this means of transport?",
             "alternativas": {
                 "a": "Subway",
                 "b": "Train",
@@ -752,12 +752,12 @@
                 "d": "Truck"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/58.jpg"
+            "imagem": "/questoes/58.jpg"
         },
         {
             "id": 59,
             "nivel": "Médio",
-            "pergunta": "Qual é a construção mostrada na imagem?",
+            "pergunta": "What is the name of this structure?",
             "alternativas": {
                 "a": "Bridge",
                 "b": "Tunnel",
@@ -765,12 +765,12 @@
                 "d": "Lighthouse"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/59.jpg"
+            "imagem": "/questoes/59.jpg"
         },
         {
             "id": 60,
             "nivel": "Médio",
-            "pergunta": "Qual é a profissão representada na imagem?",
+            "pergunta": "What is the name of this profession?",
             "alternativas": {
                 "a": "Teacher",
                 "b": "Doctor",
@@ -778,17 +778,17 @@
                 "d": "Police officer"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/60.jpg"
+            "imagem": "/questoes/60.jpg"
         },
         {
             "id": 61,
             "nivel": "Médio",
-            "pergunta": "Qual é o passado simples do verbo 'to go'?",
+            "pergunta": "Yesterday, I ___ to the supermarket.",
             "alternativas": {
-                "a": "Gone",
-                "b": "Goes",
-                "c": "Went",
-                "d": "Going"
+                "a": "gone",
+                "b": "goes",
+                "c": "went",
+                "d": "going"
             },
             "resposta": "c",
             "imagem": null
@@ -796,12 +796,12 @@
         {
             "id": 62,
             "nivel": "Médio",
-            "pergunta": "O que significa o verbo 'to understand'?",
+            "pergunta": "I am sorry, but I do not ___ what you are saying.",
             "alternativas": {
-                "a": "Explicar",
-                "b": "Entender",
-                "c": "Esquecer",
-                "d": "Lembrar"
+                "a": "explain",
+                "b": "understand",
+                "c": "forget",
+                "d": "remember"
             },
             "resposta": "b",
             "imagem": null
@@ -809,12 +809,12 @@
         {
             "id": 63,
             "nivel": "Médio",
-            "pergunta": "Como se diz o verbo 'escrever' em inglês?",
+            "pergunta": "Please, ___ your name on this paper.",
             "alternativas": {
-                "a": "Read",
-                "b": "Speak",
-                "c": "Listen",
-                "d": "Write"
+                "a": "read",
+                "b": "speak",
+                "c": "listen",
+                "d": "write"
             },
             "resposta": "d",
             "imagem": null
@@ -822,12 +822,12 @@
         {
             "id": 64,
             "nivel": "Médio",
-            "pergunta": "Qual é o particípio passado do verbo 'to take'?",
+            "pergunta": "Someone has ___ my umbrella.",
             "alternativas": {
-                "a": "Took",
-                "b": "Taken",
-                "c": "Takes",
-                "d": "Taking"
+                "a": "took",
+                "b": "taken",
+                "c": "takes",
+                "d": "taking"
             },
             "resposta": "b",
             "imagem": null
@@ -835,12 +835,12 @@
         {
             "id": 65,
             "nivel": "Médio",
-            "pergunta": "Qual o significado do verbo 'to break'?",
+            "pergunta": "Be careful not to ___ the glass.",
             "alternativas": {
-                "a": "Consertar",
-                "b": "Quebrar",
-                "c": "Parar",
-                "d": "Frear"
+                "a": "fix",
+                "b": "break",
+                "c": "stop",
+                "d": "brake"
             },
             "resposta": "b",
             "imagem": null
@@ -848,12 +848,12 @@
         {
             "id": 66,
             "nivel": "Médio",
-            "pergunta": "Qual pronome possessivo significa 'dele' em inglês?",
+            "pergunta": "This is John's car. It is ___ car.",
             "alternativas": {
-                "a": "Her",
-                "b": "His",
-                "c": "Their",
-                "d": "Your"
+                "a": "her",
+                "b": "his",
+                "c": "their",
+                "d": "your"
             },
             "resposta": "b",
             "imagem": null
@@ -861,12 +861,12 @@
         {
             "id": 67,
             "nivel": "Médio",
-            "pergunta": "Qual pronome demonstrativo usamos para indicar algo plural que está longe?",
+            "pergunta": "Look at ___ birds flying far away in the sky.",
             "alternativas": {
-                "a": "These",
-                "b": "This",
-                "c": "Those",
-                "d": "That"
+                "a": "these",
+                "b": "this",
+                "c": "those",
+                "d": "that"
             },
             "resposta": "c",
             "imagem": null
@@ -874,12 +874,12 @@
         {
             "id": 68,
             "nivel": "Médio",
-            "pergunta": "Qual é o pronome objeto correspondente a 'We'?",
+            "pergunta": "The teacher gave ___ a lot of homework to do.",
             "alternativas": {
-                "a": "Us",
-                "b": "Them",
-                "c": "Our",
-                "d": "Ours"
+                "a": "us",
+                "b": "them",
+                "c": "our",
+                "d": "ours"
             },
             "resposta": "a",
             "imagem": null
@@ -887,12 +887,12 @@
         {
             "id": 69,
             "nivel": "Médio",
-            "pergunta": "Qual pronome possessivo significa 'dela'?",
+            "pergunta": "That book belongs to Sarah. It is ___.",
             "alternativas": {
-                "a": "His",
-                "b": "Hers",
-                "c": "Its",
-                "d": "Their"
+                "a": "his",
+                "b": "hers",
+                "c": "its",
+                "d": "theirs"
             },
             "resposta": "b",
             "imagem": null
@@ -900,12 +900,12 @@
         {
             "id": 70,
             "nivel": "Médio",
-            "pergunta": "Qual pronome relativo é usado especificamente para pessoas?",
+            "pergunta": "The man ___ is standing over there is my uncle.",
             "alternativas": {
-                "a": "Which",
-                "b": "Whose",
-                "c": "Who",
-                "d": "Where"
+                "a": "which",
+                "b": "whose",
+                "c": "who",
+                "d": "where"
             },
             "resposta": "c",
             "imagem": null
@@ -913,12 +913,12 @@
         {
             "id": 71,
             "nivel": "Médio",
-            "pergunta": "Como se diz o adjetivo 'interessante' em inglês?",
+            "pergunta": "This documentary about space is very ___.",
             "alternativas": {
-                "a": "Boring",
-                "b": "Interested",
-                "c": "Interesting",
-                "d": "Excited"
+                "a": "boring",
+                "b": "interested",
+                "c": "interesting",
+                "d": "excited"
             },
             "resposta": "c",
             "imagem": null
@@ -926,12 +926,12 @@
         {
             "id": 72,
             "nivel": "Médio",
-            "pergunta": "Qual é a forma comparativa de superioridade do adjetivo 'tall'?",
+            "pergunta": "My brother is ___ than me.",
             "alternativas": {
-                "a": "More tall",
-                "b": "Tallest",
-                "c": "Taller",
-                "d": "As tall"
+                "a": "more tall",
+                "b": "tallest",
+                "c": "taller",
+                "d": "as tall"
             },
             "resposta": "c",
             "imagem": null
@@ -939,12 +939,12 @@
         {
             "id": 73,
             "nivel": "Médio",
-            "pergunta": "Qual é a tradução do adjetivo 'expensive'?",
+            "pergunta": "I cannot afford this watch, it is too ___.",
             "alternativas": {
-                "a": "Barato",
-                "b": "Caro",
-                "c": "Largo",
-                "d": "Pesado"
+                "a": "cheap",
+                "b": "expensive",
+                "c": "wide",
+                "d": "heavy"
             },
             "resposta": "b",
             "imagem": null
@@ -952,12 +952,12 @@
         {
             "id": 74,
             "nivel": "Médio",
-            "pergunta": "Como se diz 'perigoso' em inglês?",
+            "pergunta": "Do not play with knives, it can be very ___.",
             "alternativas": {
-                "a": "Safe",
-                "b": "Dangerous",
-                "c": "Careful",
-                "d": "Harmful"
+                "a": "safe",
+                "b": "dangerous",
+                "c": "careful",
+                "d": "harmful"
             },
             "resposta": "b",
             "imagem": null
@@ -965,12 +965,12 @@
         {
             "id": 75,
             "nivel": "Médio",
-            "pergunta": "Qual é o antônimo do adjetivo 'weak' (fraco)?",
+            "pergunta": "He lifts heavy weights because he is very ___.",
             "alternativas": {
-                "a": "Strong",
-                "b": "Smart",
-                "c": "Soft",
-                "d": "Slow"
+                "a": "strong",
+                "b": "smart",
+                "c": "soft",
+                "d": "slow"
             },
             "resposta": "a",
             "imagem": null
@@ -978,12 +978,12 @@
         {
             "id": 76,
             "nivel": "Médio",
-            "pergunta": "Como se diz o número ordinal 'primeiro' em inglês?",
+            "pergunta": "January is the ___ month of the year.",
             "alternativas": {
-                "a": "One",
-                "b": "Once",
-                "c": "First",
-                "d": "Primary"
+                "a": "one",
+                "b": "once",
+                "c": "first",
+                "d": "primary"
             },
             "resposta": "c",
             "imagem": null
@@ -991,12 +991,12 @@
         {
             "id": 77,
             "nivel": "Médio",
-            "pergunta": "Qual é a tradução do número 'cinquenta' em inglês?",
+            "pergunta": "Half of one hundred is ___.",
             "alternativas": {
-                "a": "Fifteen",
-                "b": "Fifty",
-                "c": "Fifth",
-                "d": "Five hundred"
+                "a": "fifteen",
+                "b": "fifty",
+                "c": "fifth",
+                "d": "five"
             },
             "resposta": "b",
             "imagem": null
@@ -1004,12 +1004,12 @@
         {
             "id": 78,
             "nivel": "Médio",
-            "pergunta": "Como escrevemos por extenso o número '100'?",
+            "pergunta": "Ten times ten equals one ___.",
             "alternativas": {
-                "a": "One thousand",
-                "b": "Ten hundred",
-                "c": "One hundred",
-                "d": "Million"
+                "a": "thousand",
+                "b": "ten",
+                "c": "hundred",
+                "d": "million"
             },
             "resposta": "c",
             "imagem": null
@@ -1017,12 +1017,12 @@
         {
             "id": 79,
             "nivel": "Médio",
-            "pergunta": "Qual é a tradução da frase 'What time is it?'?",
+            "pergunta": "Excuse me, could you tell me what ___ it is now?",
             "alternativas": {
-                "a": "Que dia é hoje?",
-                "b": "Que horas são?",
-                "c": "Onde fica isso?",
-                "d": "Quanto custa?"
+                "a": "day",
+                "b": "time",
+                "c": "place",
+                "d": "price"
             },
             "resposta": "b",
             "imagem": null
@@ -1030,12 +1030,12 @@
         {
             "id": 80,
             "nivel": "Médio",
-            "pergunta": "Como se diz 'Eu nasci no Brasil' em inglês?",
+            "pergunta": "I ___ in Brazil, but now I live in the US.",
             "alternativas": {
-                "a": "I live in Brazil",
-                "b": "I born in Brazil",
-                "c": "I was born in Brazil",
-                "d": "I am from Brazil"
+                "a": "live",
+                "b": "born",
+                "c": "was born",
+                "d": "am from"
             },
             "resposta": "c",
             "imagem": null
@@ -1043,7 +1043,7 @@
         {
             "id": 81,
             "nivel": "Difícil",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Porcupine",
                 "b": "Platypus",
@@ -1051,12 +1051,12 @@
                 "d": "Beaver"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/81.jpg"
+            "imagem": "/questoes/81.jpg"
         },
         {
             "id": 82,
             "nivel": "Difícil",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Golden Eagle",
                 "b": "Bald Eagle",
@@ -1064,12 +1064,12 @@
                 "d": "Harpy Eagle"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/82.jpg"
+            "imagem": "/questoes/82.jpg"
         },
         {
             "id": 83,
             "nivel": "Difícil",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Dragonfly",
                 "b": "Firefly",
@@ -1077,12 +1077,12 @@
                 "d": "Caterpillar"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/83.jpg"
+            "imagem": "/questoes/83.jpg"
         },
         {
             "id": 84,
             "nivel": "Difícil",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Jellyfish",
                 "b": "Starfish",
@@ -1090,12 +1090,12 @@
                 "d": "Octopus"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/84.jpg"
+            "imagem": "/questoes/84.jpg"
         },
         {
             "id": 85,
             "nivel": "Difícil",
-            "pergunta": "Qual é o animal mostrado na imagem?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Lizard",
                 "b": "Gecko",
@@ -1103,12 +1103,12 @@
                 "d": "Iguana"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/85.jpg"
+            "imagem": "/questoes/85.jpg"
         },
         {
             "id": 86,
             "nivel": "Difícil",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Pomegranate",
                 "b": "Passionfruit",
@@ -1116,12 +1116,12 @@
                 "d": "Grapefruit"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/86.jpg"
+            "imagem": "/questoes/86.jpg"
         },
         {
             "id": 87,
             "nivel": "Difícil",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Grape",
                 "b": "Plum",
@@ -1129,12 +1129,12 @@
                 "d": "Damascus"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/87.jpg"
+            "imagem": "/questoes/87.jpg"
         },
         {
             "id": 88,
             "nivel": "Difícil",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Blackberry",
                 "b": "Raspberry",
@@ -1142,12 +1142,12 @@
                 "d": "Blueberry"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/88.jpg"
+            "imagem": "/questoes/88.jpg"
         },
         {
             "id": 89,
             "nivel": "Difícil",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Raisin",
                 "b": "Grapefruit",
@@ -1155,12 +1155,12 @@
                 "d": "Tangerine"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/89.jpg"
+            "imagem": "/questoes/89.jpg"
         },
         {
             "id": 90,
             "nivel": "Difícil",
-            "pergunta": "Qual é a fruta mostrada na imagem?",
+            "pergunta": "What is the name of this fruit?",
             "alternativas": {
                 "a": "Jackfruit",
                 "b": "Starfruit",
@@ -1168,12 +1168,12 @@
                 "d": "Passionfruit"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/90.jpg"
+            "imagem": "/questoes/90.jpg"
         },
         {
             "id": 91,
             "nivel": "Difícil",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Paperclip",
                 "b": "Stapler",
@@ -1181,12 +1181,12 @@
                 "d": "Binder"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/91.jpg"
+            "imagem": "/questoes/91.jpg"
         },
         {
             "id": 92,
             "nivel": "Difícil",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Ruler",
                 "b": "Tape measure",
@@ -1194,12 +1194,12 @@
                 "d": "Compass"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/92.jpg"
+            "imagem": "/questoes/92.jpg"
         },
         {
             "id": 93,
             "nivel": "Difícil",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Plug",
                 "b": "Wire",
@@ -1207,12 +1207,12 @@
                 "d": "Switch"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/93.jpg"
+            "imagem": "/questoes/93.jpg"
         },
         {
             "id": 94,
             "nivel": "Difícil",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Air conditioner",
                 "b": "Ceiling fan",
@@ -1220,12 +1220,12 @@
                 "d": "Blower"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/94.jpg"
+            "imagem": "/questoes/94.jpg"
         },
         {
             "id": 95,
             "nivel": "Difícil",
-            "pergunta": "Qual é o objeto mostrado na imagem?",
+            "pergunta": "What is the name of this object?",
             "alternativas": {
                 "a": "Can opener",
                 "b": "Corkscrew",
@@ -1233,12 +1233,12 @@
                 "d": "Lighter"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/95.jpg"
+            "imagem": "/questoes/95.jpg"
         },
         {
             "id": 96,
             "nivel": "Difícil",
-            "pergunta": "Qual é a ferramenta mostrada na imagem?",
+            "pergunta": "What is the name of this tool?",
             "alternativas": {
                 "a": "Hammer",
                 "b": "Wrench",
@@ -1246,12 +1246,12 @@
                 "d": "Drill"
             },
             "resposta": "b",
-            "imagem": "/public/questoes/96.jpg"
+            "imagem": "/questoes/96.jpg"
         },
         {
             "id": 97,
             "nivel": "Difícil",
-            "pergunta": "Qual é a ferramenta mostrada na imagem?",
+            "pergunta": "What is the name of this tool?",
             "alternativas": {
                 "a": "Pliers",
                 "b": "Saw",
@@ -1259,12 +1259,12 @@
                 "d": "Axe"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/97.jpg"
+            "imagem": "/questoes/97.jpg"
         },
         {
             "id": 98,
             "nivel": "Difícil",
-            "pergunta": "Qual é a joia mostrada na imagem?",
+            "pergunta": "What is the name of this piece of jewelry?",
             "alternativas": {
                 "a": "Ring",
                 "b": "Bracelet",
@@ -1272,12 +1272,12 @@
                 "d": "Earring"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/98.jpg"
+            "imagem": "/questoes/98.jpg"
         },
         {
             "id": 99,
             "nivel": "Difícil",
-            "pergunta": "Qual é o instrumento musical mostrado na imagem?",
+            "pergunta": "What is the name of this musical instrument?",
             "alternativas": {
                 "a": "Cello",
                 "b": "Violin",
@@ -1285,12 +1285,12 @@
                 "d": "Viola"
             },
             "resposta": "a",
-            "imagem": "/public/questoes/99.jpg"
+            "imagem": "/questoes/99.jpg"
         },
         {
             "id": 100,
             "nivel": "Difícil",
-            "pergunta": "Qual é o vegetal mostrado na imagem?",
+            "pergunta": "What is the name of this vegetable?",
             "alternativas": {
                 "a": "Zucchini",
                 "b": "Cucumber",
@@ -1298,17 +1298,17 @@
                 "d": "Cabbage"
             },
             "resposta": "c",
-            "imagem": "/public/questoes/100.jpg"
+            "imagem": "/questoes/100.jpg"
         },
         {
             "id": 101,
             "nivel": "Difícil",
-            "pergunta": "Qual phrasal verb significa 'cancelar' um evento?",
+            "pergunta": "They had to ___ the meeting due to bad weather.",
             "alternativas": {
-                "a": "Call off",
-                "b": "Call back",
-                "c": "Put off",
-                "d": "Give up"
+                "a": "call off",
+                "b": "call back",
+                "c": "put off",
+                "d": "give up"
             },
             "resposta": "a",
             "imagem": null
@@ -1316,12 +1316,12 @@
         {
             "id": 102,
             "nivel": "Difícil",
-            "pergunta": "Na terceira condicional, qual é a estrutura verbal correta para a oração principal?",
+            "pergunta": "If she had studied harder, she ___ passed the exam.",
             "alternativas": {
-                "a": "would have + past participle",
-                "b": "will + infinitive",
-                "c": "would + infinitive",
-                "d": "had + past participle"
+                "a": "would have",
+                "b": "will",
+                "c": "would",
+                "d": "had"
             },
             "resposta": "a",
             "imagem": null
@@ -1329,12 +1329,12 @@
         {
             "id": 103,
             "nivel": "Difícil",
-            "pergunta": "O que significa o phrasal verb 'to look forward to'?",
+            "pergunta": "I am really looking ___ seeing you next week.",
             "alternativas": {
-                "a": "Investigar algo",
-                "b": "Aguardar ansiosamente por algo",
-                "c": "Desprezar alguém",
-                "d": "Tomar cuidado"
+                "a": "into",
+                "b": "forward to",
+                "c": "down on",
+                "d": "out for"
             },
             "resposta": "b",
             "imagem": null
@@ -1342,12 +1342,12 @@
         {
             "id": 104,
             "nivel": "Difícil",
-            "pergunta": "Qual é o significado correto do verbo 'to jeopardize'?",
+            "pergunta": "His poor decisions could ___ the entire project.",
             "alternativas": {
-                "a": "Incentivar",
-                "b": "Garantir",
-                "c": "Prejudicar / Colocar em risco",
-                "d": "Julgar"
+                "a": "encourage",
+                "b": "ensure",
+                "c": "jeopardize",
+                "d": "judge"
             },
             "resposta": "c",
             "imagem": null
@@ -1355,12 +1355,12 @@
         {
             "id": 105,
             "nivel": "Difícil",
-            "pergunta": "Qual verbo expressa a ação de 'reprovar/recusar' uma oferta formalmente?",
+            "pergunta": "He decided to ___ the job offer because the salary was too low.",
             "alternativas": {
-                "a": "Turn down",
-                "b": "Turn off",
-                "c": "Take down",
-                "d": "Give away"
+                "a": "turn down",
+                "b": "turn off",
+                "c": "take down",
+                "d": "give away"
             },
             "resposta": "a",
             "imagem": null
@@ -1368,12 +1368,12 @@
         {
             "id": 106,
             "nivel": "Difícil",
-            "pergunta": "Qual pronome reflexivo/enfático concorda com o sujeito 'The company'?",
+            "pergunta": "The company ___ is responsible for the damages.",
             "alternativas": {
-                "a": "Itself",
-                "b": "Themselves",
-                "c": "Himself",
-                "d": "Herself"
+                "a": "itself",
+                "b": "themselves",
+                "c": "himself",
+                "d": "herself"
             },
             "resposta": "a",
             "imagem": null
@@ -1381,12 +1381,12 @@
         {
             "id": 107,
             "nivel": "Difícil",
-            "pergunta": "Na frase 'Whom did you invite?', o pronome 'Whom' exerce função sintática de:",
+            "pergunta": "___ did you invite to the party?",
             "alternativas": {
-                "a": "Sujeito",
-                "b": "Objeto da ação",
-                "c": "Possessivo",
-                "d": "Advérbio"
+                "a": "Who",
+                "b": "Whom",
+                "c": "Whose",
+                "d": "Which"
             },
             "resposta": "b",
             "imagem": null
@@ -1394,25 +1394,25 @@
         {
             "id": 108,
             "nivel": "Difícil",
-            "pergunta": "Qual pronome indefinido é usado prioritariamente em frases afirmativas, indicando 'qualquer um' sem distinção?",
+            "pergunta": "I believe ___ left their bag in the classroom.",
             "alternativas": {
-                "a": "Anyone",
-                "b": "No one",
-                "c": "Someone",
-                "d": "None"
+                "a": "anyone",
+                "b": "no one",
+                "c": "someone",
+                "d": "none"
             },
-            "resposta": "a",
+            "resposta": "c",
             "imagem": null
         },
         {
             "id": 109,
             "nivel": "Difícil",
-            "pergunta": "Em construções formais, qual pronome relativo substitui 'whose' quando nos referimos a coisas inanimadas de forma preposicionada?",
+            "pergunta": "It is a problem the solution ___ is still unknown.",
             "alternativas": {
-                "a": "Of which",
-                "b": "To whom",
-                "c": "By that",
-                "d": "In which"
+                "a": "of which",
+                "b": "to whom",
+                "c": "by that",
+                "d": "in which"
             },
             "resposta": "a",
             "imagem": null
@@ -1420,12 +1420,12 @@
         {
             "id": 110,
             "nivel": "Difícil",
-            "pergunta": "Qual pronome recíproco indica uma relação mútua entre mais de duas pessoas?",
+            "pergunta": "The five teammates worked closely with ___ to win the tournament.",
             "alternativas": {
-                "a": "Each other",
-                "b": "One another",
-                "c": "Themselves",
-                "d": "Ourselves"
+                "a": "each other",
+                "b": "one another",
+                "c": "themselves",
+                "d": "ourselves"
             },
             "resposta": "b",
             "imagem": null
@@ -1433,12 +1433,12 @@
         {
             "id": 111,
             "nivel": "Difícil",
-            "pergunta": "Qual adjetivo descreve uma pessoa extremamente detalhista, meticulosa ou exigente?",
+            "pergunta": "She is a very ___ worker, paying attention to every single detail.",
             "alternativas": {
-                "a": "Fastidious",
-                "b": "Careless",
-                "c": "Generous",
-                "d": "Lethargic"
+                "a": "fastidious",
+                "b": "careless",
+                "c": "generous",
+                "d": "lethargic"
             },
             "resposta": "a",
             "imagem": null
@@ -1446,12 +1446,12 @@
         {
             "id": 112,
             "nivel": "Difícil",
-            "pergunta": "O que significa o adjetivo composto 'short-sighted' no sentido figurado?",
+            "pergunta": "His ___ approach ignored the long-term consequences.",
             "alternativas": {
-                "a": "Imprevidente / Sem visão de futuro",
-                "b": "Paciente",
-                "c": "Pessimista",
-                "d": "Teimoso"
+                "a": "short-sighted",
+                "b": "patient",
+                "c": "pessimistic",
+                "d": "stubborn"
             },
             "resposta": "a",
             "imagem": null
@@ -1459,12 +1459,12 @@
         {
             "id": 113,
             "nivel": "Difícil",
-            "pergunta": "Qual é a forma superlativa correta e irregular do adjetivo 'far' (distante) para indicar extensão máxima ou profundidade?",
+            "pergunta": "That star is the ___ object visible from our observatory.",
             "alternativas": {
-                "a": "Furthest",
-                "b": "Farest",
-                "c": "More far",
-                "d": "Most far"
+                "a": "furthest",
+                "b": "farest",
+                "c": "more far",
+                "d": "most far"
             },
             "resposta": "a",
             "imagem": null
@@ -1472,12 +1472,12 @@
         {
             "id": 114,
             "nivel": "Difícil",
-            "pergunta": "Qual adjetivo equivale a 'onipresente' em inglês?",
+            "pergunta": "Smartphones have become ___ in modern society.",
             "alternativas": {
-                "a": "Ubiquitous",
-                "b": "Scattered",
-                "c": "Scarce",
-                "d": "Fleeting"
+                "a": "ubiquitous",
+                "b": "scattered",
+                "c": "scarce",
+                "d": "fleeting"
             },
             "resposta": "a",
             "imagem": null
@@ -1485,12 +1485,12 @@
         {
             "id": 115,
             "nivel": "Difícil",
-            "pergunta": "O que qualifica algo que é 'compulsório' ou 'obrigatório' por lei ou regra?",
+            "pergunta": "Wearing a seatbelt is ___ when driving a car.",
             "alternativas": {
-                "a": "Mandatory",
-                "b": "Optional",
-                "c": "Voluntary",
-                "d": "Arbitrary"
+                "a": "mandatory",
+                "b": "optional",
+                "c": "voluntary",
+                "d": "arbitrary"
             },
             "resposta": "a",
             "imagem": null
@@ -1498,12 +1498,12 @@
         {
             "id": 116,
             "nivel": "Difícil",
-            "pergunta": "Como expressamos em inglês a fração 'três quartos'?",
+            "pergunta": "He drank ___ of the juice in the bottle.",
             "alternativas": {
-                "a": "Three quarters",
-                "b": "Three fourth",
-                "c": "Third fourths",
-                "d": "Three second"
+                "a": "three quarters",
+                "b": "three fourth",
+                "c": "third fourths",
+                "d": "three second"
             },
             "resposta": "a",
             "imagem": null
@@ -1511,12 +1511,12 @@
         {
             "id": 117,
             "nivel": "Difícil",
-            "pergunta": "Como se diz por extenso o número cardinal '1.500.000' em inglês?",
+            "pergunta": "The city has a population of over ___.",
             "alternativas": {
-                "a": "One point five million",
-                "b": "Fifteen hundred thousand",
-                "c": "One million five hundred thousand",
-                "d": "One billion"
+                "a": "one point five million",
+                "b": "fifteen hundred thousand",
+                "c": "one million five hundred thousand",
+                "d": "one billion"
             },
             "resposta": "c",
             "imagem": null
@@ -1524,12 +1524,12 @@
         {
             "id": 118,
             "nivel": "Difícil",
-            "pergunta": "Qual é o termo usado em inglês para se referir aos números ordinais que determinam uma sequência de séculos como 'século XXI'?",
+            "pergunta": "We are currently living in the ___.",
             "alternativas": {
-                "a": "Twenty-first century",
-                "b": "Twenty-one century",
-                "c": "Twentieth-one century",
-                "d": "Century twenty-one"
+                "a": "twenty-first century",
+                "b": "twenty-one century",
+                "c": "twentieth-one century",
+                "d": "century twenty-one"
             },
             "resposta": "a",
             "imagem": null
@@ -1537,12 +1537,12 @@
         {
             "id": 119,
             "nivel": "Difícil",
-            "pergunta": "Qual é a tradução precisa da expressão idiomática 'It's raining cats and dogs'?",
+            "pergunta": "We cannot go out right now, it is raining ___.",
             "alternativas": {
-                "a": "Está chovendo muito forte",
-                "b": "Os animais estão na chuva",
-                "c": "A chuva está caindo de mansinho",
-                "d": "Está trovejando alto"
+                "a": "cats and dogs",
+                "b": "animals",
+                "c": "softly",
+                "d": "thunder"
             },
             "resposta": "a",
             "imagem": null
@@ -1550,12 +1550,12 @@
         {
             "id": 120,
             "nivel": "Difícil",
-            "pergunta": "Qual frase representa corretamente uma inversão gramatical enfática pós-advérbio negativo?",
+            "pergunta": "___ such a beautiful view.",
             "alternativas": {
-                "a": "Seldom have I seen such a beautiful view.",
-                "b": "Seldom I have seen such a beautiful view.",
-                "c": "I have seldom seen such a beautiful view.",
-                "d": "Seldom did I saw such a beautiful view."
+                "a": "Seldom have I seen",
+                "b": "Seldom I have seen",
+                "c": "I have seldom seen",
+                "d": "Seldom did I saw"
             },
             "resposta": "a",
             "imagem": null
