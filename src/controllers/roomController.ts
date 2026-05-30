@@ -16,6 +16,9 @@ export const criarSala = async (req: Request, res: Response) => {
       tempo,
       nivel,
     );
+
+    roomService.cleanRooms();
+
     const quiz = quizService.createQuiz(quizConfig, quizQuestoes);
     const salaCodigo = roomService.createRoom(quiz);
 

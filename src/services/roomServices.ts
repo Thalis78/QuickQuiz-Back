@@ -14,6 +14,10 @@ export class RoomService {
         return code;
   }
 
+  cleanRooms(): void {
+    this.rooms.clear();
+  }
+
   createRoom(quiz: Quiz): string {
     const code = this.generateRoomCode();
 
@@ -113,93 +117,6 @@ export class RoomService {
 
     return true;
   }
-
-  // clearQuestionTimer(code: string): void {
-  //   const room = this.rooms.get(code);
-
-  //   if (room?.questionTimer) {
-  //     clearTimeout(room.questionTimer);
-  //     room.questionTimer = undefined;
-  //   }
-  // }
-
-  // setQuestionTimer(code: string, timer: NodeJS.Timeout): void {
-  //   const room = this.rooms.get(code);
-
-  //   if (room) {
-  //     // Limpa timer anterior se existir
-  //     if (room.questionTimer) {
-  //       clearTimeout(room.questionTimer);
-  //     }
-  //     room.questionTimer = timer;
-  //   }
-  // }
-
-  // nextQuestion(code: string): boolean {
-  //   const room = this.rooms.get(code);
-
-  //   if (!room || room.status !== 'playing') return false;
-
-  //   // Limpa timer da questão anterior
-  //   this.clearQuestionTimer(code);
-
-  //   if (room.currentQuestionIndex >= room.quiz.questoes.length - 1) {
-  //     this.finishQuiz(code);
-  //     return false;
-  //   }
-
-  //   room.currentQuestionIndex++;
-  //   room.questionStartTime = new Date();
-  //   console.log(`Sala ${code} - Questão ${room.currentQuestionIndex + 1}`);
-  //   return true;
-  // }
-
-  // submitAnswer(code: string, studentId: string, questionIndex: number, answer: string): boolean {
-  //   const room = this.rooms.get(code);
-
-  //   if (!room || room.status !== 'playing') return false;
-
-  //   const student = room.students.get(studentId);
-
-  //   if (!student) return false;
-
-  //   // Verifica se é a questão atual
-  //   if (questionIndex !== room.currentQuestionIndex) {
-  //     console.log(`Resposta fora de sincronia - Sala: ${code}, Aluno: ${student.name}`);
-  //     return false;
-  //   }
-
-  //   // Verifica se está correta
-  //   const question = room.quiz.questoes[questionIndex];
-  //   const correctLetter = question.resposta.toLowerCase(); // A, B, C, D
-
-  //   if (answer === correctLetter) {
-  //     student.score += 1;
-  //     console.log(`Resposta correta - ${student.name} na sala ${code}`);
-  //   } else {
-  //     console.log(`Resposta incorreta - ${student.name} na sala ${code}`);
-  //   }
-
-  //   return true;
-  // }
-
-  // finishQuiz(code: string): void {
-  //   const room = this.rooms.get(code);
-
-  //   if (!room) return;
-
-  //   room.status = 'finished';
-  //   console.log(`Quiz finalizado na sala ${code}`);
-  // }
-
-  // closeRoom(code: string): void {
-  //   const room = this.rooms.get(code);
-    
-  //   if (room) {
-  //     this.rooms.delete(code);
-  //     console.log(`Sala ${code} fechada`);
-  //   }
-  // }
 }
 
 export const roomService = new RoomService();

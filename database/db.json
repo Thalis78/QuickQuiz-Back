@@ -3,410 +3,7 @@
         {
             "id": 1,
             "nivel": "Fácil",
-            "pergunta": "Choose the correct option: '___ you like pizza?'",
-            "alternativas": {
-                "a": "Does",
-                "b": "Are",
-                "c": "Do",
-                "d": "Is"
-            },
-            "resposta": "c",
-            "imagem": null
-        },
-        {
-            "id": 2,
-            "nivel": "Fácil",
-            "pergunta": "She ___ a doctor.",
-            "alternativas": {
-                "a": "am",
-                "b": "is",
-                "c": "are",
-                "d": "be"
-            },
-            "resposta": "b",
-            "imagem": null
-        },
-        {
-            "id": 3,
-            "nivel": "Fácil",
-            "pergunta": "I ___ to the park every weekend.",
-            "alternativas": {
-                "a": "go",
-                "b": "goes",
-                "c": "going",
-                "d": "gone"
-            },
-            "resposta": "a",
-            "imagem": null
-        },
-        {
-            "id": 4,
-            "nivel": "Fácil",
-            "pergunta": "___ is your name?",
-            "alternativas": {
-                "a": "Who",
-                "b": "When",
-                "c": "Where",
-                "d": "What"
-            },
-            "resposta": "d",
-            "imagem": null
-        },
-        {
-            "id": 5,
-            "nivel": "Fácil",
-            "pergunta": "They ___ playing football now.",
-            "alternativas": {
-                "a": "is",
-                "b": "am",
-                "c": "are",
-                "d": "do"
-            },
-            "resposta": "c",
-            "imagem": null
-        },
-        {
-            "id": 6,
-            "nivel": "Fácil",
-            "pergunta": "I have a brother. ___ name is Tom.",
-            "alternativas": {
-                "a": "Her",
-                "b": "His",
-                "c": "He",
-                "d": "Him"
-            },
-            "resposta": "b",
-            "imagem": null
-        },
-        {
-            "id": 7,
-            "nivel": "Fácil",
-            "pergunta": "We don't have ___ milk left.",
-            "alternativas": {
-                "a": "any",
-                "b": "some",
-                "c": "a",
-                "d": "an"
-            },
-            "resposta": "a",
-            "imagem": null
-        },
-        {
-            "id": 8,
-            "nivel": "Fácil",
-            "pergunta": "Look at ___ dog! It's so cute.",
-            "alternativas": {
-                "a": "these",
-                "b": "those",
-                "c": "then",
-                "d": "that"
-            },
-            "resposta": "d",
-            "imagem": null
-        },
-        {
-            "id": 9,
-            "nivel": "Fácil",
-            "pergunta": "He ___ like apples.",
-            "alternativas": {
-                "a": "doesn't",
-                "b": "don't",
-                "c": "isn't",
-                "d": "aren't"
-            },
-            "resposta": "a",
-            "imagem": null
-        },
-        {
-            "id": 10,
-            "nivel": "Fácil",
-            "pergunta": "Can you help ___?",
-            "alternativas": {
-                "a": "I",
-                "b": "my",
-                "c": "me",
-                "d": "mine"
-            },
-            "resposta": "c",
-            "imagem": null
-        },
-        {
-            "id": 11,
-            "nivel": "Médio",
-            "pergunta": "I ___ to London last year.",
-            "alternativas": {
-                "a": "go",
-                "b": "gone",
-                "c": "went",
-                "d": "going"
-            },
-            "resposta": "c",
-            "imagem": null
-        },
-        {
-            "id": 12,
-            "nivel": "Médio",
-            "pergunta": "She has ___ lived here for five years.",
-            "alternativas": {
-                "a": "yet",
-                "b": "already",
-                "c": "since",
-                "d": "ever"
-            },
-            "resposta": "b",
-            "imagem": null
-        },
-        {
-            "id": 13,
-            "nivel": "Médio",
-            "pergunta": "This book is ___ than the other one.",
-            "alternativas": {
-                "a": "gooder",
-                "b": "more good",
-                "c": "better",
-                "d": "best"
-            },
-            "resposta": "c",
-            "imagem": null
-        },
-        {
-            "id": 14,
-            "nivel": "Médio",
-            "pergunta": "If it rains, we ___ at home.",
-            "alternativas": {
-                "a": "will stay",
-                "b": "stay",
-                "c": "would stay",
-                "d": "stayed"
-            },
-            "resposta": "a",
-            "imagem": null
-        },
-        {
-            "id": 15,
-            "nivel": "Médio",
-            "pergunta": "I'm looking forward ___ you.",
-            "alternativas": {
-                "a": "to see",
-                "b": "seeing",
-                "c": "see",
-                "d": "to seeing"
-            },
-            "resposta": "d",
-            "imagem": null
-        },
-        {
-            "id": 16,
-            "nivel": "Médio",
-            "pergunta": "He is used ___ up early.",
-            "alternativas": {
-                "a": "wake",
-                "b": "to waking",
-                "c": "to wake",
-                "d": "waking"
-            },
-            "resposta": "b",
-            "imagem": null
-        },
-        {
-            "id": 17,
-            "nivel": "Médio",
-            "pergunta": "The car, ___ was blue, drove past.",
-            "alternativas": {
-                "a": "which",
-                "b": "who",
-                "c": "whose",
-                "d": "whom"
-            },
-            "resposta": "a",
-            "imagem": null
-        },
-        {
-            "id": 18,
-            "nivel": "Médio",
-            "pergunta": "They have been working here ___ 2015.",
-            "alternativas": {
-                "a": "for",
-                "b": "in",
-                "c": "since",
-                "d": "at"
-            },
-            "resposta": "c",
-            "imagem": null
-        },
-        {
-            "id": 19,
-            "nivel": "Médio",
-            "pergunta": "You ___ smoke in the hospital.",
-            "alternativas": {
-                "a": "don't have to",
-                "b": "wouldn't",
-                "c": "couldn't",
-                "d": "mustn't"
-            },
-            "resposta": "d",
-            "imagem": null
-        },
-        {
-            "id": 20,
-            "nivel": "Médio",
-            "pergunta": "I was watching TV when the phone ___.",
-            "alternativas": {
-                "a": "rings",
-                "b": "rang",
-                "c": "has rung",
-                "d": "was ringing"
-            },
-            "resposta": "b",
-            "imagem": null
-        },
-        {
-            "id": 21,
-            "nivel": "Difícil",
-            "pergunta": "If I had known you were coming, I ___ a cake.",
-            "alternativas": {
-                "a": "would bake",
-                "b": "will bake",
-                "c": "would have baked",
-                "d": "baked"
-            },
-            "resposta": "c",
-            "imagem": null
-        },
-        {
-            "id": 22,
-            "nivel": "Difícil",
-            "pergunta": "Scarcely ___ the house when it started to pour.",
-            "alternativas": {
-                "a": "had he left",
-                "b": "he had left",
-                "c": "did he leave",
-                "d": "has he left"
-            },
-            "resposta": "a",
-            "imagem": null
-        },
-        {
-            "id": 23,
-            "nivel": "Difícil",
-            "pergunta": "The project is expected ___ by the end of the month.",
-            "alternativas": {
-                "a": "to finish",
-                "b": "to be finished",
-                "c": "finishing",
-                "d": "being finished"
-            },
-            "resposta": "b",
-            "imagem": null
-        },
-        {
-            "id": 24,
-            "nivel": "Difícil",
-            "pergunta": "Not only ___ late, but he also forgot his notes.",
-            "alternativas": {
-                "a": "he was",
-                "b": "he did be",
-                "c": "was he",
-                "d": "did he"
-            },
-            "resposta": "c",
-            "imagem": null
-        },
-        {
-            "id": 25,
-            "nivel": "Difícil",
-            "pergunta": "She was completely taken ___ by his story.",
-            "alternativas": {
-                "a": "out",
-                "b": "over",
-                "c": "aback",
-                "d": "in"
-            },
-            "resposta": "d",
-            "imagem": null
-        },
-        {
-            "id": 26,
-            "nivel": "Difícil",
-            "pergunta": "By this time next year, I ___ my degree.",
-            "alternativas": {
-                "a": "will have finished",
-                "b": "will finish",
-                "c": "would finish",
-                "d": "finish"
-            },
-            "resposta": "a",
-            "imagem": null
-        },
-        {
-            "id": 27,
-            "nivel": "Difícil",
-            "pergunta": "The manager insisted that the employee ___ immediately.",
-            "alternativas": {
-                "a": "resigns",
-                "b": "resign",
-                "c": "resigned",
-                "d": "resigning"
-            },
-            "resposta": "b",
-            "imagem": null
-        },
-        {
-            "id": 28,
-            "nivel": "Difícil",
-            "pergunta": "Despite ___ tired, she kept working.",
-            "alternativas": {
-                "a": "to be",
-                "b": "she was",
-                "c": "being",
-                "d": "of being"
-            },
-            "resposta": "c",
-            "imagem": null
-        },
-        {
-            "id": 29,
-            "nivel": "Difícil",
-            "pergunta": "He would rather you ___ him the truth.",
-            "alternativas": {
-                "a": "tell",
-                "b": "told",
-                "c": "have told",
-                "d": "telling"
-            },
-            "resposta": "b",
-            "imagem": null
-        },
-        {
-            "id": 30,
-            "nivel": "Difícil",
-            "pergunta": "It's high time you ___ a job.",
-            "alternativas": {
-                "a": "found",
-                "b": "find",
-                "c": "finding",
-                "d": "will find"
-            },
-            "resposta": "a",
-            "imagem": null
-        },
-        {
-            "id": 31,
-            "nivel": "Fácil",
-            "pergunta": "What is this fruit in the image?",
-            "alternativas": {
-                "a": "Apple",
-                "b": "Banana",
-                "c": "Orange",
-                "d": "Grape"
-            },
-            "resposta": "a",
-            "imagem": "https://images.unsplash.com/photo-1570913149827-d2ac84ab3f9a?q=80&w=1000&auto=format&fit=crop"
-        },
-        {
-            "id": 32,
-            "nivel": "Fácil",
-            "pergunta": "What animal is shown in the image?",
+            "pergunta": "What is the name of this animal?",
             "alternativas": {
                 "a": "Dog",
                 "b": "Cat",
@@ -414,111 +11,1554 @@
                 "d": "Lion"
             },
             "resposta": "b",
-            "imagem": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba"
+            "imagem": "/questoes/1.jpg"
+        },
+        {
+            "id": 2,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Dog",
+                "b": "Elephant",
+                "c": "Fish",
+                "d": "Cow"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/2.jpg"
+        },
+        {
+            "id": 3,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Horse",
+                "b": "Mouse",
+                "c": "Bird",
+                "d": "Duck"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/3.jpg"
+        },
+        {
+            "id": 4,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Tiger",
+                "b": "Lion",
+                "c": "Bear",
+                "d": "Zebra"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/4.jpg"
+        },
+        {
+            "id": 5,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Frog",
+                "b": "Shark",
+                "c": "Fish",
+                "d": "Turtle"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/5.jpg"
+        },
+        {
+            "id": 6,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Banana",
+                "b": "Orange",
+                "c": "Apple",
+                "d": "Grape"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/6.jpg"
+        },
+        {
+            "id": 7,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Banana",
+                "b": "Melon",
+                "c": "Peach",
+                "d": "Lemon"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/7.jpg"
+        },
+        {
+            "id": 8,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Limon",
+                "b": "Orange",
+                "c": "Strawberry",
+                "d": "Grape"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/8.jpg"
+        },
+        {
+            "id": 9,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Grape",
+                "b": "Pear",
+                "c": "Cherry",
+                "d": "Mango"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/9.jpg"
+        },
+        {
+            "id": 10,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Watermelon",
+                "b": "Pineapple",
+                "c": "Coconut",
+                "d": "Papaya"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/10.jpg"
+        },
+        {
+            "id": 11,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Pen",
+                "b": "Pencil",
+                "c": "Eraser",
+                "d": "Book"
+            },
+            "resposta": "d",
+            "imagem": "/questoes/11.jpg"
+        },
+        {
+            "id": 12,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Eraser",
+                "b": "Pen",
+                "c": "Ruler",
+                "d": "Desk"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/12.jpg"
+        },
+        {
+            "id": 13,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Table",
+                "b": "Chair",
+                "c": "Bed",
+                "d": "Sofa"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/13.jpg"
+        },
+        {
+            "id": 14,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Key",
+                "b": "Door",
+                "c": "Window",
+                "d": "Table"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/14.jpg"
+        },
+        {
+            "id": 15,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Mouse",
+                "b": "Screen",
+                "c": "Computer",
+                "d": "Keyboard"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/15.jpg"
+        },
+        {
+            "id": 16,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this vehicle?",
+            "alternativas": {
+                "a": "Car",
+                "b": "Bus",
+                "c": "Train",
+                "d": "Bicycle"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/16.jpg"
+        },
+        {
+            "id": 17,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this vehicle?",
+            "alternativas": {
+                "a": "Airplane",
+                "b": "Boat",
+                "c": "Bus",
+                "d": "Motorcycle"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/17.jpg"
+        },
+        {
+            "id": 18,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this piece of clothing?",
+            "alternativas": {
+                "a": "Pants",
+                "b": "T-shirt",
+                "c": "Jacket",
+                "d": "Hat"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/18.jpg"
+        },
+        {
+            "id": 19,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this piece of clothing?",
+            "alternativas": {
+                "a": "Shoes",
+                "b": "Socks",
+                "c": "Gloves",
+                "d": "Scarf"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/19.jpg"
+        },
+        {
+            "id": 20,
+            "nivel": "Fácil",
+            "pergunta": "What is the name of this?",
+            "alternativas": {
+                "a": "Moon",
+                "b": "Star",
+                "c": "Sun",
+                "d": "Asteroid"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/20.jpg"
+        },
+        {
+            "id": 21,
+            "nivel": "Fácil",
+            "pergunta": "I like to ___ in the park every morning.",
+            "alternativas": {
+                "a": "sleep",
+                "b": "run",
+                "c": "drink",
+                "d": "cook"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 22,
+            "nivel": "Fácil",
+            "pergunta": "I am hungry, I want to ___ an apple.",
+            "alternativas": {
+                "a": "drink",
+                "b": "sleep",
+                "c": "eat",
+                "d": "cook"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 23,
+            "nivel": "Fácil",
+            "pergunta": "He ___ my best friend.",
+            "alternativas": {
+                "a": "am",
+                "b": "are",
+                "c": "is",
+                "d": "be"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 24,
+            "nivel": "Fácil",
+            "pergunta": "It is late, I need to ___.",
+            "alternativas": {
+                "a": "read",
+                "b": "wake",
+                "c": "rest",
+                "d": "sleep"
+            },
+            "resposta": "d",
+            "imagem": null
+        },
+        {
+            "id": 25,
+            "nivel": "Fácil",
+            "pergunta": "I am thirsty, I want to ___ some water.",
+            "alternativas": {
+                "a": "drink",
+                "b": "eat",
+                "c": "wash",
+                "d": "open"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 26,
+            "nivel": "Fácil",
+            "pergunta": "___ am very happy today.",
+            "alternativas": {
+                "a": "You",
+                "b": "I",
+                "c": "He",
+                "d": "We"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 27,
+            "nivel": "Fácil",
+            "pergunta": "Mary is my sister. ___ is very tall.",
+            "alternativas": {
+                "a": "He",
+                "b": "She",
+                "c": "They",
+                "d": "It"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 28,
+            "nivel": "Fácil",
+            "pergunta": "Look at the dog. ___ is so cute.",
+            "alternativas": {
+                "a": "It",
+                "b": "They",
+                "c": "We",
+                "d": "You"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 29,
+            "nivel": "Fácil",
+            "pergunta": "___ are going to the cinema together.",
+            "alternativas": {
+                "a": "I",
+                "b": "She",
+                "c": "We",
+                "d": "He"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 30,
+            "nivel": "Fácil",
+            "pergunta": "Tom and Jerry are brothers. ___ like playing football.",
+            "alternativas": {
+                "a": "We",
+                "b": "You",
+                "c": "He",
+                "d": "They"
+            },
+            "resposta": "d",
+            "imagem": null
+        },
+        {
+            "id": 31,
+            "nivel": "Fácil",
+            "pergunta": "She is smiling because she is ___.",
+            "alternativas": {
+                "a": "sad",
+                "b": "angry",
+                "c": "happy",
+                "d": "tired"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 32,
+            "nivel": "Fácil",
+            "pergunta": "An elephant is a very ___ animal.",
+            "alternativas": {
+                "a": "small",
+                "b": "big",
+                "c": "tall",
+                "d": "short"
+            },
+            "resposta": "b",
+            "imagem": null
         },
         {
             "id": 33,
             "nivel": "Fácil",
-            "pergunta": "What color is the car in the image?",
+            "pergunta": "The flowers in the garden are very ___.",
             "alternativas": {
-                "a": "Red",
-                "b": "Blue",
-                "c": "Green",
-                "d": "Yellow"
+                "a": "ugly",
+                "b": "beautiful",
+                "c": "thin",
+                "d": "sad"
             },
-            "resposta": "a",
-            "imagem": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+            "resposta": "b",
+            "imagem": null
         },
         {
             "id": 34,
-            "nivel": "Médio",
-            "pergunta": "Identify the landmark in the image.",
+            "nivel": "Fácil",
+            "pergunta": "In winter, the weather is usually very ___.",
             "alternativas": {
-                "a": "Eiffel Tower",
-                "b": "Statue of Liberty",
-                "c": "Colosseum",
-                "d": "Big Ben"
+                "a": "hot",
+                "b": "warm",
+                "c": "cold",
+                "d": "dry"
             },
-            "resposta": "a",
-            "imagem": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f"
+            "resposta": "c",
+            "imagem": null
         },
         {
             "id": 35,
-            "nivel": "Médio",
-            "pergunta": "What is the person in the image doing?",
+            "nivel": "Fácil",
+            "pergunta": "I just bought a ___ car.",
             "alternativas": {
-                "a": "Running",
-                "b": "Cooking",
-                "c": "Reading",
-                "d": "Sleeping"
+                "a": "hot",
+                "b": "young",
+                "c": "new",
+                "d": "cold"
             },
             "resposta": "c",
-            "imagem": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d"
+            "imagem": null
         },
         {
             "id": 36,
-            "nivel": "Médio",
-            "pergunta": "What season is depicted in the image?",
+            "nivel": "Fácil",
+            "pergunta": "I have ___ apples: one for me, one for you, and one for him.",
             "alternativas": {
-                "a": "Spring",
-                "b": "Summer",
-                "c": "Autumn",
-                "d": "Winter"
+                "a": "two",
+                "b": "three",
+                "c": "four",
+                "d": "five"
             },
-            "resposta": "d",
-            "imagem": "https://images.unsplash.com/photo-1483921020237-2ff51e8e4b22?q=80&w=1000&auto=format&fit=crop"
+            "resposta": "b",
+            "imagem": null
         },
         {
             "id": 37,
+            "nivel": "Fácil",
+            "pergunta": "A week has ___ days.",
+            "alternativas": {
+                "a": "six",
+                "b": "seven",
+                "c": "eight",
+                "d": "nine"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 38,
+            "nivel": "Fácil",
+            "pergunta": "I have ___ fingers on my hands.",
+            "alternativas": {
+                "a": "one",
+                "b": "five",
+                "c": "eight",
+                "d": "ten"
+            },
+            "resposta": "d",
+            "imagem": null
+        },
+        {
+            "id": 39,
+            "nivel": "Fácil",
+            "pergunta": "I ___ my family very much.",
+            "alternativas": {
+                "a": "eat",
+                "b": "love",
+                "c": "drink",
+                "d": "read"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 40,
+            "nivel": "Fácil",
+            "pergunta": "Look up, the sky is ___ today.",
+            "alternativas": {
+                "a": "blue",
+                "b": "red",
+                "c": "green",
+                "d": "black"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 41,
             "nivel": "Médio",
-            "pergunta": "Which musical instrument is this?",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Donkey",
+                "b": "Monkey",
+                "c": "Gorilla",
+                "d": "Fox"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/41.jpg"
+        },
+        {
+            "id": 42,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Bear",
+                "b": "Butterfly",
+                "c": "Bird",
+                "d": "Bull"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/42.jpg"
+        },
+        {
+            "id": 43,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Dolphin",
+                "b": "Whale",
+                "c": "Shark",
+                "d": "Seal"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/43.jpg"
+        },
+        {
+            "id": 44,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Fox",
+                "b": "Wolf",
+                "c": "Lion",
+                "d": "Tiger"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/44.jpg"
+        },
+        {
+            "id": 45,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Eagle",
+                "b": "Hawk",
+                "c": "Falcon",
+                "d": "Owl"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/45.jpg"
+        },
+        {
+            "id": 46,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Apple",
+                "b": "Orange",
+                "c": "Strawberry",
+                "d": "Cherry"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/46.jpg"
+        },
+        {
+            "id": 47,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Peach",
+                "b": "Pear",
+                "c": "Plum",
+                "d": "Fig"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/47.jpg"
+        },
+        {
+            "id": 48,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Melon",
+                "b": "Papaya",
+                "c": "Watermelon",
+                "d": "Apple"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/48.jpg"
+        },
+        {
+            "id": 49,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Cherry",
+                "b": "Berry",
+                "c": "Grape",
+                "d": "Plum"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/49.jpg"
+        },
+        {
+            "id": 50,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Grape",
+                "b": "Lemon",
+                "c": "Orange",
+                "d": "Apple"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/50.jpg"
+        },
+        {
+            "id": 51,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Window",
+                "b": "Glass",
+                "c": "Mirror",
+                "d": "Wall"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/51.jpg"
+        },
+        {
+            "id": 52,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Bag",
+                "b": "Clock",
+                "c": "Pen",
+                "d": "Scissors"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/52.jpg"
+        },
+        {
+            "id": 53,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Clock",
+                "b": "Bag",
+                "c": "Timer",
+                "d": "Compass"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/53.jpg"
+        },
+        {
+            "id": 54,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Blanket",
+                "b": "Sheet",
+                "c": "Cushion",
+                "d": "Pillow"
+            },
+            "resposta": "d",
+            "imagem": "/questoes/54.jpg"
+        },
+        {
+            "id": 55,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Knife",
+                "b": "Scissors",
+                "c": "Hammer",
+                "d": "Screwdriver"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/55.jpg"
+        },
+        {
+            "id": 56,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this musical instrument?",
             "alternativas": {
                 "a": "Guitar",
                 "b": "Piano",
                 "c": "Violin",
                 "d": "Drums"
             },
-            "resposta": "b",
-            "imagem": "https://images.unsplash.com/photo-1552422535-c45813c61732?q=80&w=1000&auto=format&fit=crop"
+            "resposta": "a",
+            "imagem": "/questoes/56.jpg"
         },
         {
-            "id": 38,
-            "nivel": "Difícil",
-            "pergunta": "What phenomenon is shown in the image?",
+            "id": 57,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this musical instrument?",
             "alternativas": {
-                "a": "Solar Eclipse",
-                "b": "Northern Lights",
-                "c": "Tornado",
-                "d": "Lunar Eclipse"
+                "a": "Flute",
+                "b": "Trumpet",
+                "c": "Piano",
+                "d": "Saxophone"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/57.jpg"
+        },
+        {
+            "id": 58,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this means of transport?",
+            "alternativas": {
+                "a": "Subway",
+                "b": "Train",
+                "c": "Helicopter",
+                "d": "Truck"
             },
             "resposta": "b",
-            "imagem": "https://images.unsplash.com/photo-1483347756197-71ef80e95f73?q=80&w=1000&auto=format&fit=crop"
+            "imagem": "/questoes/58.jpg"
         },
         {
-            "id": 39,
-            "nivel": "Difícil",
-            "pergunta": "Identify the historical figure in the portrait.",
+            "id": 59,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this structure?",
             "alternativas": {
-                "a": "Albert Einstein",
-                "b": "Isaac Newton",
-                "c": "Charles Darwin",
-                "d": "Marie Curie"
+                "a": "Bridge",
+                "b": "Tunnel",
+                "c": "Castle",
+                "d": "Lighthouse"
             },
             "resposta": "a",
-            "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
+            "imagem": "/questoes/59.jpg"
         },
         {
-            "id": 40,
-            "nivel": "Difícil",
-            "pergunta": "What type of architecture is shown here?",
+            "id": 60,
+            "nivel": "Médio",
+            "pergunta": "What is the name of this profession?",
             "alternativas": {
-                "a": "Gothic",
-                "b": "Modern",
-                "c": "Baroque",
-                "d": "Renaissance"
+                "a": "Teacher",
+                "b": "Doctor",
+                "c": "Chef",
+                "d": "Police officer"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/60.jpg"
+        },
+        {
+            "id": 61,
+            "nivel": "Médio",
+            "pergunta": "Yesterday, I ___ to the supermarket.",
+            "alternativas": {
+                "a": "gone",
+                "b": "goes",
+                "c": "went",
+                "d": "going"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 62,
+            "nivel": "Médio",
+            "pergunta": "I am sorry, but I do not ___ what you are saying.",
+            "alternativas": {
+                "a": "explain",
+                "b": "understand",
+                "c": "forget",
+                "d": "remember"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 63,
+            "nivel": "Médio",
+            "pergunta": "Please, ___ your name on this paper.",
+            "alternativas": {
+                "a": "read",
+                "b": "speak",
+                "c": "listen",
+                "d": "write"
+            },
+            "resposta": "d",
+            "imagem": null
+        },
+        {
+            "id": 64,
+            "nivel": "Médio",
+            "pergunta": "Someone has ___ my umbrella.",
+            "alternativas": {
+                "a": "took",
+                "b": "taken",
+                "c": "takes",
+                "d": "taking"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 65,
+            "nivel": "Médio",
+            "pergunta": "Be careful not to ___ the glass.",
+            "alternativas": {
+                "a": "fix",
+                "b": "break",
+                "c": "stop",
+                "d": "brake"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 66,
+            "nivel": "Médio",
+            "pergunta": "This is John's car. It is ___ car.",
+            "alternativas": {
+                "a": "her",
+                "b": "his",
+                "c": "their",
+                "d": "your"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 67,
+            "nivel": "Médio",
+            "pergunta": "Look at ___ birds flying far away in the sky.",
+            "alternativas": {
+                "a": "these",
+                "b": "this",
+                "c": "those",
+                "d": "that"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 68,
+            "nivel": "Médio",
+            "pergunta": "The teacher gave ___ a lot of homework to do.",
+            "alternativas": {
+                "a": "us",
+                "b": "them",
+                "c": "our",
+                "d": "ours"
             },
             "resposta": "a",
-            "imagem": "https://images.unsplash.com/photo-1548543604-a87c9909abec"
+            "imagem": null
+        },
+        {
+            "id": 69,
+            "nivel": "Médio",
+            "pergunta": "That book belongs to Sarah. It is ___.",
+            "alternativas": {
+                "a": "his",
+                "b": "hers",
+                "c": "its",
+                "d": "theirs"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 70,
+            "nivel": "Médio",
+            "pergunta": "The man ___ is standing over there is my uncle.",
+            "alternativas": {
+                "a": "which",
+                "b": "whose",
+                "c": "who",
+                "d": "where"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 71,
+            "nivel": "Médio",
+            "pergunta": "This documentary about space is very ___.",
+            "alternativas": {
+                "a": "boring",
+                "b": "interested",
+                "c": "interesting",
+                "d": "excited"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 72,
+            "nivel": "Médio",
+            "pergunta": "My brother is ___ than me.",
+            "alternativas": {
+                "a": "more tall",
+                "b": "tallest",
+                "c": "taller",
+                "d": "as tall"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 73,
+            "nivel": "Médio",
+            "pergunta": "I cannot afford this watch, it is too ___.",
+            "alternativas": {
+                "a": "cheap",
+                "b": "expensive",
+                "c": "wide",
+                "d": "heavy"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 74,
+            "nivel": "Médio",
+            "pergunta": "Do not play with knives, it can be very ___.",
+            "alternativas": {
+                "a": "safe",
+                "b": "dangerous",
+                "c": "careful",
+                "d": "harmful"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 75,
+            "nivel": "Médio",
+            "pergunta": "He lifts heavy weights because he is very ___.",
+            "alternativas": {
+                "a": "strong",
+                "b": "smart",
+                "c": "soft",
+                "d": "slow"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 76,
+            "nivel": "Médio",
+            "pergunta": "January is the ___ month of the year.",
+            "alternativas": {
+                "a": "one",
+                "b": "once",
+                "c": "first",
+                "d": "primary"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 77,
+            "nivel": "Médio",
+            "pergunta": "Half of one hundred is ___.",
+            "alternativas": {
+                "a": "fifteen",
+                "b": "fifty",
+                "c": "fifth",
+                "d": "five"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 78,
+            "nivel": "Médio",
+            "pergunta": "Ten times ten equals one ___.",
+            "alternativas": {
+                "a": "thousand",
+                "b": "ten",
+                "c": "hundred",
+                "d": "million"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 79,
+            "nivel": "Médio",
+            "pergunta": "Excuse me, could you tell me what ___ it is now?",
+            "alternativas": {
+                "a": "day",
+                "b": "time",
+                "c": "place",
+                "d": "price"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 80,
+            "nivel": "Médio",
+            "pergunta": "I ___ in Brazil, but now I live in the US.",
+            "alternativas": {
+                "a": "live",
+                "b": "born",
+                "c": "was born",
+                "d": "am from"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 81,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Porcupine",
+                "b": "Platypus",
+                "c": "Otter",
+                "d": "Beaver"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/81.jpg"
+        },
+        {
+            "id": 82,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Golden Eagle",
+                "b": "Bald Eagle",
+                "c": "Falcon",
+                "d": "Harpy Eagle"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/82.jpg"
+        },
+        {
+            "id": 83,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Dragonfly",
+                "b": "Firefly",
+                "c": "Butterfly",
+                "d": "Caterpillar"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/83.jpg"
+        },
+        {
+            "id": 84,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Jellyfish",
+                "b": "Starfish",
+                "c": "Crab",
+                "d": "Octopus"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/84.jpg"
+        },
+        {
+            "id": 85,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this animal?",
+            "alternativas": {
+                "a": "Lizard",
+                "b": "Gecko",
+                "c": "Chameleon",
+                "d": "Iguana"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/85.jpg"
+        },
+        {
+            "id": 86,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Pomegranate",
+                "b": "Passionfruit",
+                "c": "Dragonfruit",
+                "d": "Grapefruit"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/86.jpg"
+        },
+        {
+            "id": 87,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Grape",
+                "b": "Plum",
+                "c": "Fig",
+                "d": "Damascus"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/87.jpg"
+        },
+        {
+            "id": 88,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Blackberry",
+                "b": "Raspberry",
+                "c": "Cranberry",
+                "d": "Blueberry"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/88.jpg"
+        },
+        {
+            "id": 89,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Raisin",
+                "b": "Grapefruit",
+                "c": "Cider",
+                "d": "Tangerine"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/89.jpg"
+        },
+        {
+            "id": 90,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this fruit?",
+            "alternativas": {
+                "a": "Jackfruit",
+                "b": "Starfruit",
+                "c": "Dragonfruit",
+                "d": "Passionfruit"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/90.jpg"
+        },
+        {
+            "id": 91,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Paperclip",
+                "b": "Stapler",
+                "c": "Puncher",
+                "d": "Binder"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/91.jpg"
+        },
+        {
+            "id": 92,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Ruler",
+                "b": "Tape measure",
+                "c": "Level",
+                "d": "Compass"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/92.jpg"
+        },
+        {
+            "id": 93,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Plug",
+                "b": "Wire",
+                "c": "Outlet",
+                "d": "Switch"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/93.jpg"
+        },
+        {
+            "id": 94,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Air conditioner",
+                "b": "Ceiling fan",
+                "c": "Heater",
+                "d": "Blower"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/94.jpg"
+        },
+        {
+            "id": 95,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this object?",
+            "alternativas": {
+                "a": "Can opener",
+                "b": "Corkscrew",
+                "c": "Peeler",
+                "d": "Lighter"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/95.jpg"
+        },
+        {
+            "id": 96,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this tool?",
+            "alternativas": {
+                "a": "Hammer",
+                "b": "Wrench",
+                "c": "Screwdriver",
+                "d": "Drill"
+            },
+            "resposta": "b",
+            "imagem": "/questoes/96.jpg"
+        },
+        {
+            "id": 97,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this tool?",
+            "alternativas": {
+                "a": "Pliers",
+                "b": "Saw",
+                "c": "Wrench",
+                "d": "Axe"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/97.jpg"
+        },
+        {
+            "id": 98,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this piece of jewelry?",
+            "alternativas": {
+                "a": "Ring",
+                "b": "Bracelet",
+                "c": "Necklace",
+                "d": "Earring"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/98.jpg"
+        },
+        {
+            "id": 99,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this musical instrument?",
+            "alternativas": {
+                "a": "Cello",
+                "b": "Violin",
+                "c": "Double bass",
+                "d": "Viola"
+            },
+            "resposta": "a",
+            "imagem": "/questoes/99.jpg"
+        },
+        {
+            "id": 100,
+            "nivel": "Difícil",
+            "pergunta": "What is the name of this vegetable?",
+            "alternativas": {
+                "a": "Zucchini",
+                "b": "Cucumber",
+                "c": "Eggplant",
+                "d": "Cabbage"
+            },
+            "resposta": "c",
+            "imagem": "/questoes/100.jpg"
+        },
+        {
+            "id": 101,
+            "nivel": "Difícil",
+            "pergunta": "They had to ___ the meeting due to bad weather.",
+            "alternativas": {
+                "a": "call off",
+                "b": "call back",
+                "c": "put off",
+                "d": "give up"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 102,
+            "nivel": "Difícil",
+            "pergunta": "If she had studied harder, she ___ passed the exam.",
+            "alternativas": {
+                "a": "would have",
+                "b": "will",
+                "c": "would",
+                "d": "had"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 103,
+            "nivel": "Difícil",
+            "pergunta": "I am really looking ___ seeing you next week.",
+            "alternativas": {
+                "a": "into",
+                "b": "forward to",
+                "c": "down on",
+                "d": "out for"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 104,
+            "nivel": "Difícil",
+            "pergunta": "His poor decisions could ___ the entire project.",
+            "alternativas": {
+                "a": "encourage",
+                "b": "ensure",
+                "c": "jeopardize",
+                "d": "judge"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 105,
+            "nivel": "Difícil",
+            "pergunta": "He decided to ___ the job offer because the salary was too low.",
+            "alternativas": {
+                "a": "turn down",
+                "b": "turn off",
+                "c": "take down",
+                "d": "give away"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 106,
+            "nivel": "Difícil",
+            "pergunta": "The company ___ is responsible for the damages.",
+            "alternativas": {
+                "a": "itself",
+                "b": "themselves",
+                "c": "himself",
+                "d": "herself"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 107,
+            "nivel": "Difícil",
+            "pergunta": "___ did you invite to the party?",
+            "alternativas": {
+                "a": "Who",
+                "b": "Whom",
+                "c": "Whose",
+                "d": "Which"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 108,
+            "nivel": "Difícil",
+            "pergunta": "I believe ___ left their bag in the classroom.",
+            "alternativas": {
+                "a": "anyone",
+                "b": "no one",
+                "c": "someone",
+                "d": "none"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 109,
+            "nivel": "Difícil",
+            "pergunta": "It is a problem the solution ___ is still unknown.",
+            "alternativas": {
+                "a": "of which",
+                "b": "to whom",
+                "c": "by that",
+                "d": "in which"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 110,
+            "nivel": "Difícil",
+            "pergunta": "The five teammates worked closely with ___ to win the tournament.",
+            "alternativas": {
+                "a": "each other",
+                "b": "one another",
+                "c": "themselves",
+                "d": "ourselves"
+            },
+            "resposta": "b",
+            "imagem": null
+        },
+        {
+            "id": 111,
+            "nivel": "Difícil",
+            "pergunta": "She is a very ___ worker, paying attention to every single detail.",
+            "alternativas": {
+                "a": "fastidious",
+                "b": "careless",
+                "c": "generous",
+                "d": "lethargic"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 112,
+            "nivel": "Difícil",
+            "pergunta": "His ___ approach ignored the long-term consequences.",
+            "alternativas": {
+                "a": "short-sighted",
+                "b": "patient",
+                "c": "pessimistic",
+                "d": "stubborn"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 113,
+            "nivel": "Difícil",
+            "pergunta": "That star is the ___ object visible from our observatory.",
+            "alternativas": {
+                "a": "furthest",
+                "b": "farest",
+                "c": "more far",
+                "d": "most far"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 114,
+            "nivel": "Difícil",
+            "pergunta": "Smartphones have become ___ in modern society.",
+            "alternativas": {
+                "a": "ubiquitous",
+                "b": "scattered",
+                "c": "scarce",
+                "d": "fleeting"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 115,
+            "nivel": "Difícil",
+            "pergunta": "Wearing a seatbelt is ___ when driving a car.",
+            "alternativas": {
+                "a": "mandatory",
+                "b": "optional",
+                "c": "voluntary",
+                "d": "arbitrary"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 116,
+            "nivel": "Difícil",
+            "pergunta": "He drank ___ of the juice in the bottle.",
+            "alternativas": {
+                "a": "three quarters",
+                "b": "three fourth",
+                "c": "third fourths",
+                "d": "three second"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 117,
+            "nivel": "Difícil",
+            "pergunta": "The city has a population of over ___.",
+            "alternativas": {
+                "a": "one point five million",
+                "b": "fifteen hundred thousand",
+                "c": "one million five hundred thousand",
+                "d": "one billion"
+            },
+            "resposta": "c",
+            "imagem": null
+        },
+        {
+            "id": 118,
+            "nivel": "Difícil",
+            "pergunta": "We are currently living in the ___.",
+            "alternativas": {
+                "a": "twenty-first century",
+                "b": "twenty-one century",
+                "c": "twentieth-one century",
+                "d": "century twenty-one"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 119,
+            "nivel": "Difícil",
+            "pergunta": "We cannot go out right now, it is raining ___.",
+            "alternativas": {
+                "a": "cats and dogs",
+                "b": "animals",
+                "c": "softly",
+                "d": "thunder"
+            },
+            "resposta": "a",
+            "imagem": null
+        },
+        {
+            "id": 120,
+            "nivel": "Difícil",
+            "pergunta": "___ such a beautiful view.",
+            "alternativas": {
+                "a": "Seldom have I seen",
+                "b": "Seldom I have seen",
+                "c": "I have seldom seen",
+                "d": "Seldom did I saw"
+            },
+            "resposta": "a",
+            "imagem": null
         }
     ]
 }
